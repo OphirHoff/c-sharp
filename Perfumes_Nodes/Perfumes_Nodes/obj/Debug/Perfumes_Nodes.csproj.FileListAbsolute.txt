@@ -1,0 +1,8 @@
+D:\C#\Perfumes_Nodes\Perfumes_Nodes\obj\Debug\Perfumes_Nodes.csproj.AssemblyReference.cache
+D:\C#\Perfumes_Nodes\Perfumes_Nodes\obj\Debug\Perfumes_Nodes.csproj.SuggestedBindingRedirects.cache
+D:\C#\Perfumes_Nodes\Perfumes_Nodes\obj\Debug\Perfumes_Nodes.csproj.CoreCompileInputs.cache
+D:\C#\Perfumes_Nodes\Perfumes_Nodes\bin\Debug\Perfumes_Nodes.exe.config
+D:\C#\Perfumes_Nodes\Perfumes_Nodes\bin\Debug\Perfumes_Nodes.exe
+D:\C#\Perfumes_Nodes\Perfumes_Nodes\bin\Debug\Perfumes_Nodes.pdb
+D:\C#\Perfumes_Nodes\Perfumes_Nodes\obj\Debug\Perfumes_Nodes.exe
+D:\C#\Perfumes_Nodes\Perfumes_Nodes\obj\Debug\Perfumes_Nodes.pdb

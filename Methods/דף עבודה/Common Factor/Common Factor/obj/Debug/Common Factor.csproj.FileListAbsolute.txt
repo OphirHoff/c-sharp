@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\Common Factor\Common Factor\obj\Debug\Common Factor.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\Common Factor\Common Factor\obj\Debug\Common Factor.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\Common Factor\Common Factor\obj\Debug\Common Factor.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\Common Factor\Common Factor\bin\Debug\Common Factor.exe.config
+D:\Work\Methods\דף עבודה\Common Factor\Common Factor\bin\Debug\Common Factor.exe
+D:\Work\Methods\דף עבודה\Common Factor\Common Factor\bin\Debug\Common Factor.pdb
+D:\Work\Methods\דף עבודה\Common Factor\Common Factor\obj\Debug\Common Factor.exe
+D:\Work\Methods\דף עבודה\Common Factor\Common Factor\obj\Debug\Common Factor.pdb

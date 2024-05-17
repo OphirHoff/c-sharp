@@ -1,0 +1,7 @@
+E:\Work\While loops\Number disassembling 3\bin\Debug\Number disassembling 3.exe.config
+E:\Work\While loops\Number disassembling 3\bin\Debug\Number disassembling 3.exe
+E:\Work\While loops\Number disassembling 3\bin\Debug\Number disassembling 3.pdb
+E:\Work\While loops\Number disassembling 3\obj\Debug\Number disassembling 3.csprojAssemblyReference.cache
+E:\Work\While loops\Number disassembling 3\obj\Debug\Number disassembling 3.csproj.CoreCompileInputs.cache
+E:\Work\While loops\Number disassembling 3\obj\Debug\Number disassembling 3.exe
+E:\Work\While loops\Number disassembling 3\obj\Debug\Number disassembling 3.pdb

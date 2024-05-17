@@ -1,0 +1,7 @@
+E:\Work\While loops\letters sequence\bin\Debug\letters sequence.exe.config
+E:\Work\While loops\letters sequence\bin\Debug\letters sequence.exe
+E:\Work\While loops\letters sequence\bin\Debug\letters sequence.pdb
+E:\Work\While loops\letters sequence\obj\Debug\letters sequence.csprojAssemblyReference.cache
+E:\Work\While loops\letters sequence\obj\Debug\letters sequence.csproj.CoreCompileInputs.cache
+E:\Work\While loops\letters sequence\obj\Debug\letters sequence.exe
+E:\Work\While loops\letters sequence\obj\Debug\letters sequence.pdb

@@ -1,0 +1,8 @@
+D:\Work\If Statements\Three-digit number\Three-digit number\obj\Debug\Three-digit number.csproj.AssemblyReference.cache
+D:\Work\If Statements\Three-digit number\Three-digit number\obj\Debug\Three-digit number.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\Three-digit number\Three-digit number\obj\Debug\Three-digit number.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\Three-digit number\Three-digit number\bin\Debug\Three-digit number.exe.config
+D:\Work\If Statements\Three-digit number\Three-digit number\bin\Debug\Three-digit number.exe
+D:\Work\If Statements\Three-digit number\Three-digit number\bin\Debug\Three-digit number.pdb
+D:\Work\If Statements\Three-digit number\Three-digit number\obj\Debug\Three-digit number.exe
+D:\Work\If Statements\Three-digit number\Three-digit number\obj\Debug\Three-digit number.pdb

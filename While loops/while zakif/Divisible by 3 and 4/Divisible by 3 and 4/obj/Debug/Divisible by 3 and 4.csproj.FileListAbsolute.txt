@@ -1,0 +1,8 @@
+D:\Work\While loops\while zakif\Divisible by 3 and 4\Divisible by 3 and 4\obj\Debug\Divisible by 3 and 4.csproj.AssemblyReference.cache
+D:\Work\While loops\while zakif\Divisible by 3 and 4\Divisible by 3 and 4\obj\Debug\Divisible by 3 and 4.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\while zakif\Divisible by 3 and 4\Divisible by 3 and 4\obj\Debug\Divisible by 3 and 4.csproj.CoreCompileInputs.cache
+D:\Work\While loops\while zakif\Divisible by 3 and 4\Divisible by 3 and 4\bin\Debug\Divisible by 3 and 4.exe.config
+D:\Work\While loops\while zakif\Divisible by 3 and 4\Divisible by 3 and 4\bin\Debug\Divisible by 3 and 4.exe
+D:\Work\While loops\while zakif\Divisible by 3 and 4\Divisible by 3 and 4\bin\Debug\Divisible by 3 and 4.pdb
+D:\Work\While loops\while zakif\Divisible by 3 and 4\Divisible by 3 and 4\obj\Debug\Divisible by 3 and 4.exe
+D:\Work\While loops\while zakif\Divisible by 3 and 4\Divisible by 3 and 4\obj\Debug\Divisible by 3 and 4.pdb

@@ -1,0 +1,8 @@
+D:\Work\Quotient and remainder\school trip buses\school trip buses\bin\Debug\school trip buses.exe.config
+D:\Work\Quotient and remainder\school trip buses\school trip buses\bin\Debug\school trip buses.exe
+D:\Work\Quotient and remainder\school trip buses\school trip buses\bin\Debug\school trip buses.pdb
+D:\Work\Quotient and remainder\school trip buses\school trip buses\obj\Debug\school trip buses.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\school trip buses\school trip buses\obj\Debug\school trip buses.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\school trip buses\school trip buses\obj\Debug\school trip buses.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\school trip buses\school trip buses\obj\Debug\school trip buses.exe
+D:\Work\Quotient and remainder\school trip buses\school trip buses\obj\Debug\school trip buses.pdb

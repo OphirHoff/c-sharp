@@ -1,0 +1,16 @@
+D:\Work\operators without math functions\operators without math functions\bin\Debug\operators without math functions.exe.config
+D:\Work\operators without math functions\operators without math functions\bin\Debug\operators without math functions.exe
+D:\Work\operators without math functions\operators without math functions\bin\Debug\operators without math functions.pdb
+D:\Work\operators without math functions\operators without math functions\obj\Debug\operators without math functions.csproj.AssemblyReference.cache
+D:\Work\operators without math functions\operators without math functions\obj\Debug\operators without math functions.csproj.SuggestedBindingRedirects.cache
+D:\Work\operators without math functions\operators without math functions\obj\Debug\operators without math functions.csproj.CoreCompileInputs.cache
+D:\Work\operators without math functions\operators without math functions\obj\Debug\operators without math functions.exe
+D:\Work\operators without math functions\operators without math functions\obj\Debug\operators without math functions.pdb
+D:\Work\If Statements\operators without math functions\operators without math functions\bin\Debug\operators without math functions.exe.config
+D:\Work\If Statements\operators without math functions\operators without math functions\bin\Debug\operators without math functions.exe
+D:\Work\If Statements\operators without math functions\operators without math functions\bin\Debug\operators without math functions.pdb
+D:\Work\If Statements\operators without math functions\operators without math functions\obj\Debug\operators without math functions.csproj.AssemblyReference.cache
+D:\Work\If Statements\operators without math functions\operators without math functions\obj\Debug\operators without math functions.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\operators without math functions\operators without math functions\obj\Debug\operators without math functions.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\operators without math functions\operators without math functions\obj\Debug\operators without math functions.exe
+D:\Work\If Statements\operators without math functions\operators without math functions\obj\Debug\operators without math functions.pdb

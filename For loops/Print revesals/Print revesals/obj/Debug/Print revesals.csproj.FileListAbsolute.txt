@@ -1,0 +1,8 @@
+D:\Work\For loops\Print revesals\Print revesals\bin\Debug\Print revesals.exe.config
+D:\Work\For loops\Print revesals\Print revesals\bin\Debug\Print revesals.exe
+D:\Work\For loops\Print revesals\Print revesals\bin\Debug\Print revesals.pdb
+D:\Work\For loops\Print revesals\Print revesals\obj\Debug\Print revesals.csproj.AssemblyReference.cache
+D:\Work\For loops\Print revesals\Print revesals\obj\Debug\Print revesals.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Print revesals\Print revesals\obj\Debug\Print revesals.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Print revesals\Print revesals\obj\Debug\Print revesals.exe
+D:\Work\For loops\Print revesals\Print revesals\obj\Debug\Print revesals.pdb

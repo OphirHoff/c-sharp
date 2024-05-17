@@ -1,0 +1,7 @@
+E:\C#\Arrays\EX25\bin\Debug\EX25.exe.config
+E:\C#\Arrays\EX25\bin\Debug\EX25.exe
+E:\C#\Arrays\EX25\bin\Debug\EX25.pdb
+E:\C#\Arrays\EX25\obj\Debug\EX25.csprojAssemblyReference.cache
+E:\C#\Arrays\EX25\obj\Debug\EX25.csproj.CoreCompileInputs.cache
+E:\C#\Arrays\EX25\obj\Debug\EX25.exe
+E:\C#\Arrays\EX25\obj\Debug\EX25.pdb

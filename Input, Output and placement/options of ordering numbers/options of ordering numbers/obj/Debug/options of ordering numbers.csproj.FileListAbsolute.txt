@@ -1,0 +1,8 @@
+D:\Work\options of ordering numbers\options of ordering numbers\bin\Debug\options of ordering numbers.exe.config
+D:\Work\options of ordering numbers\options of ordering numbers\bin\Debug\options of ordering numbers.exe
+D:\Work\options of ordering numbers\options of ordering numbers\bin\Debug\options of ordering numbers.pdb
+D:\Work\options of ordering numbers\options of ordering numbers\obj\Debug\options of ordering numbers.csproj.AssemblyReference.cache
+D:\Work\options of ordering numbers\options of ordering numbers\obj\Debug\options of ordering numbers.csproj.SuggestedBindingRedirects.cache
+D:\Work\options of ordering numbers\options of ordering numbers\obj\Debug\options of ordering numbers.csproj.CoreCompileInputs.cache
+D:\Work\options of ordering numbers\options of ordering numbers\obj\Debug\options of ordering numbers.exe
+D:\Work\options of ordering numbers\options of ordering numbers\obj\Debug\options of ordering numbers.pdb

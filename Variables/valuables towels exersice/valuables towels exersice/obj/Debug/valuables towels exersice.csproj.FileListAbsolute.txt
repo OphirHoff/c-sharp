@@ -1,0 +1,8 @@
+D:\Work\valuables towels exersice\valuables towels exersice\bin\Debug\valuables towels exersice.exe.config
+D:\Work\valuables towels exersice\valuables towels exersice\bin\Debug\valuables towels exersice.exe
+D:\Work\valuables towels exersice\valuables towels exersice\bin\Debug\valuables towels exersice.pdb
+D:\Work\valuables towels exersice\valuables towels exersice\obj\Debug\valuables towels exersice.csproj.AssemblyReference.cache
+D:\Work\valuables towels exersice\valuables towels exersice\obj\Debug\valuables towels exersice.csproj.SuggestedBindingRedirects.cache
+D:\Work\valuables towels exersice\valuables towels exersice\obj\Debug\valuables towels exersice.csproj.CoreCompileInputs.cache
+D:\Work\valuables towels exersice\valuables towels exersice\obj\Debug\valuables towels exersice.exe
+D:\Work\valuables towels exersice\valuables towels exersice\obj\Debug\valuables towels exersice.pdb

@@ -1,0 +1,7 @@
+E:\C#\Arrays\mathAction\bin\Debug\mathAction.exe.config
+E:\C#\Arrays\mathAction\bin\Debug\mathAction.exe
+E:\C#\Arrays\mathAction\bin\Debug\mathAction.pdb
+E:\C#\Arrays\mathAction\obj\Debug\mathAction.csprojAssemblyReference.cache
+E:\C#\Arrays\mathAction\obj\Debug\mathAction.csproj.CoreCompileInputs.cache
+E:\C#\Arrays\mathAction\obj\Debug\mathAction.exe
+E:\C#\Arrays\mathAction\obj\Debug\mathAction.pdb

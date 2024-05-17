@@ -1,0 +1,8 @@
+D:\Work\For loops\Perfect and prime\all perfect numbers\all perfect numbers\obj\Debug\all perfect numbers.csproj.AssemblyReference.cache
+D:\Work\For loops\Perfect and prime\all perfect numbers\all perfect numbers\obj\Debug\all perfect numbers.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Perfect and prime\all perfect numbers\all perfect numbers\obj\Debug\all perfect numbers.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Perfect and prime\all perfect numbers\all perfect numbers\bin\Debug\all perfect numbers.exe.config
+D:\Work\For loops\Perfect and prime\all perfect numbers\all perfect numbers\bin\Debug\all perfect numbers.exe
+D:\Work\For loops\Perfect and prime\all perfect numbers\all perfect numbers\bin\Debug\all perfect numbers.pdb
+D:\Work\For loops\Perfect and prime\all perfect numbers\all perfect numbers\obj\Debug\all perfect numbers.exe
+D:\Work\For loops\Perfect and prime\all perfect numbers\all perfect numbers\obj\Debug\all perfect numbers.pdb

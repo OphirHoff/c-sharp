@@ -1,0 +1,16 @@
+D:\Work\three-digit number\three-digit number\bin\Debug\three-digit number.exe.config
+D:\Work\three-digit number\three-digit number\bin\Debug\three-digit number.exe
+D:\Work\three-digit number\three-digit number\bin\Debug\three-digit number.pdb
+D:\Work\three-digit number\three-digit number\obj\Debug\three-digit number.csproj.AssemblyReference.cache
+D:\Work\three-digit number\three-digit number\obj\Debug\three-digit number.csproj.SuggestedBindingRedirects.cache
+D:\Work\three-digit number\three-digit number\obj\Debug\three-digit number.csproj.CoreCompileInputs.cache
+D:\Work\three-digit number\three-digit number\obj\Debug\three-digit number.exe
+D:\Work\three-digit number\three-digit number\obj\Debug\three-digit number.pdb
+D:\Work\Quotient and remainder\three-digit number\three-digit number\bin\Debug\three-digit number.exe.config
+D:\Work\Quotient and remainder\three-digit number\three-digit number\bin\Debug\three-digit number.exe
+D:\Work\Quotient and remainder\three-digit number\three-digit number\bin\Debug\three-digit number.pdb
+D:\Work\Quotient and remainder\three-digit number\three-digit number\obj\Debug\three-digit number.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\three-digit number\three-digit number\obj\Debug\three-digit number.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\three-digit number\three-digit number\obj\Debug\three-digit number.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\three-digit number\three-digit number\obj\Debug\three-digit number.exe
+D:\Work\Quotient and remainder\three-digit number\three-digit number\obj\Debug\three-digit number.pdb

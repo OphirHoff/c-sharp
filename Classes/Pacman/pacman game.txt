@@ -1,0 +1,18 @@
+board:
+1. borders V
+2. inner borders&walls!!!
+
+classes:
+1. pacman
+2. ghosts
+3. food
+(4. big food)
+
+main loop:
+
+1) make the ghosts move randomly
+2) make the pacman move according to input
+3) make food disappear when pacman eats eat
+4) game/level over when:
+	a. pacman eaten by ghost
+	b. pacman ate all food

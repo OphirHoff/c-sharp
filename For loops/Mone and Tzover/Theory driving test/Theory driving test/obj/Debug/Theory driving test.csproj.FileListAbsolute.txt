@@ -1,0 +1,8 @@
+D:\Work\For loops\Mone and Tzover\Theory driving test\Theory driving test\bin\Debug\Theory driving test.exe.config
+D:\Work\For loops\Mone and Tzover\Theory driving test\Theory driving test\bin\Debug\Theory driving test.exe
+D:\Work\For loops\Mone and Tzover\Theory driving test\Theory driving test\bin\Debug\Theory driving test.pdb
+D:\Work\For loops\Mone and Tzover\Theory driving test\Theory driving test\obj\Debug\Theory driving test.csproj.AssemblyReference.cache
+D:\Work\For loops\Mone and Tzover\Theory driving test\Theory driving test\obj\Debug\Theory driving test.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Mone and Tzover\Theory driving test\Theory driving test\obj\Debug\Theory driving test.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Mone and Tzover\Theory driving test\Theory driving test\obj\Debug\Theory driving test.exe
+D:\Work\For loops\Mone and Tzover\Theory driving test\Theory driving test\obj\Debug\Theory driving test.pdb

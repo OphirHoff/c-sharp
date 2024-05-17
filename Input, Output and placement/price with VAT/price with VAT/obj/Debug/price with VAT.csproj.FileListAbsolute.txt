@@ -1,0 +1,8 @@
+D:\Work\price with VAT\price with VAT\bin\Debug\price with VAT.exe.config
+D:\Work\price with VAT\price with VAT\bin\Debug\price with VAT.exe
+D:\Work\price with VAT\price with VAT\bin\Debug\price with VAT.pdb
+D:\Work\price with VAT\price with VAT\obj\Debug\price with VAT.csproj.AssemblyReference.cache
+D:\Work\price with VAT\price with VAT\obj\Debug\price with VAT.csproj.SuggestedBindingRedirects.cache
+D:\Work\price with VAT\price with VAT\obj\Debug\price with VAT.csproj.CoreCompileInputs.cache
+D:\Work\price with VAT\price with VAT\obj\Debug\price with VAT.exe
+D:\Work\price with VAT\price with VAT\obj\Debug\price with VAT.pdb

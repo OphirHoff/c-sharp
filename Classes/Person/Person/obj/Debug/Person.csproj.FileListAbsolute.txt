@@ -1,0 +1,8 @@
+D:\C#\Classes\Person\Person\bin\Debug\Person.exe.config
+D:\C#\Classes\Person\Person\bin\Debug\Person.exe
+D:\C#\Classes\Person\Person\bin\Debug\Person.pdb
+D:\C#\Classes\Person\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+D:\C#\Classes\Person\Person\obj\Debug\Person.csproj.SuggestedBindingRedirects.cache
+D:\C#\Classes\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\C#\Classes\Person\Person\obj\Debug\Person.exe
+D:\C#\Classes\Person\Person\obj\Debug\Person.pdb

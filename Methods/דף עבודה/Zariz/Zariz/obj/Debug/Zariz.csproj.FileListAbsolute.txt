@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\Zariz\Zariz\bin\Debug\Zariz.exe.config
+D:\Work\Methods\דף עבודה\Zariz\Zariz\bin\Debug\Zariz.exe
+D:\Work\Methods\דף עבודה\Zariz\Zariz\bin\Debug\Zariz.pdb
+D:\Work\Methods\דף עבודה\Zariz\Zariz\obj\Debug\Zariz.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\Zariz\Zariz\obj\Debug\Zariz.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\Zariz\Zariz\obj\Debug\Zariz.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\Zariz\Zariz\obj\Debug\Zariz.exe
+D:\Work\Methods\דף עבודה\Zariz\Zariz\obj\Debug\Zariz.pdb

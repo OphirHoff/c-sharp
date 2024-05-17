@@ -1,0 +1,8 @@
+D:\Work\For loops\How many negative and positive\How many negative and positive\obj\Debug\How many negative and positive.csproj.AssemblyReference.cache
+D:\Work\For loops\How many negative and positive\How many negative and positive\obj\Debug\How many negative and positive.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\How many negative and positive\How many negative and positive\obj\Debug\How many negative and positive.csproj.CoreCompileInputs.cache
+D:\Work\For loops\How many negative and positive\How many negative and positive\bin\Debug\How many negative and positive.exe.config
+D:\Work\For loops\How many negative and positive\How many negative and positive\bin\Debug\How many negative and positive.exe
+D:\Work\For loops\How many negative and positive\How many negative and positive\bin\Debug\How many negative and positive.pdb
+D:\Work\For loops\How many negative and positive\How many negative and positive\obj\Debug\How many negative and positive.exe
+D:\Work\For loops\How many negative and positive\How many negative and positive\obj\Debug\How many negative and positive.pdb

@@ -1,0 +1,8 @@
+D:\Work\For loops\For Puzzle\level 3\level 3\bin\Debug\level 3.exe.config
+D:\Work\For loops\For Puzzle\level 3\level 3\bin\Debug\level 3.exe
+D:\Work\For loops\For Puzzle\level 3\level 3\bin\Debug\level 3.pdb
+D:\Work\For loops\For Puzzle\level 3\level 3\obj\Debug\level 3.csproj.AssemblyReference.cache
+D:\Work\For loops\For Puzzle\level 3\level 3\obj\Debug\level 3.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\For Puzzle\level 3\level 3\obj\Debug\level 3.csproj.CoreCompileInputs.cache
+D:\Work\For loops\For Puzzle\level 3\level 3\obj\Debug\level 3.exe
+D:\Work\For loops\For Puzzle\level 3\level 3\obj\Debug\level 3.pdb

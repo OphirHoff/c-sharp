@@ -1,0 +1,8 @@
+D:\Work\Quotient and remainder\days to weeks and days\days to weeks and days\bin\Debug\days to weeks and days.exe.config
+D:\Work\Quotient and remainder\days to weeks and days\days to weeks and days\bin\Debug\days to weeks and days.exe
+D:\Work\Quotient and remainder\days to weeks and days\days to weeks and days\bin\Debug\days to weeks and days.pdb
+D:\Work\Quotient and remainder\days to weeks and days\days to weeks and days\obj\Debug\days to weeks and days.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\days to weeks and days\days to weeks and days\obj\Debug\days to weeks and days.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\days to weeks and days\days to weeks and days\obj\Debug\days to weeks and days.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\days to weeks and days\days to weeks and days\obj\Debug\days to weeks and days.exe
+D:\Work\Quotient and remainder\days to weeks and days\days to weeks and days\obj\Debug\days to weeks and days.pdb

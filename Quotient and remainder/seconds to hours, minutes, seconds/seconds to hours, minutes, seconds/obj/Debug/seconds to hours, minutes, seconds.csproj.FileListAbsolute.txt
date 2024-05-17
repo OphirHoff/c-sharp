@@ -1,0 +1,8 @@
+D:\Work\Quotient and remainder\seconds to hours, minutes, seconds\seconds to hours, minutes, seconds\bin\Debug\seconds to hours, minutes, seconds.exe.config
+D:\Work\Quotient and remainder\seconds to hours, minutes, seconds\seconds to hours, minutes, seconds\bin\Debug\seconds to hours, minutes, seconds.exe
+D:\Work\Quotient and remainder\seconds to hours, minutes, seconds\seconds to hours, minutes, seconds\bin\Debug\seconds to hours, minutes, seconds.pdb
+D:\Work\Quotient and remainder\seconds to hours, minutes, seconds\seconds to hours, minutes, seconds\obj\Debug\seconds to hours, minutes, seconds.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\seconds to hours, minutes, seconds\seconds to hours, minutes, seconds\obj\Debug\seconds to hours, minutes, seconds.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\seconds to hours, minutes, seconds\seconds to hours, minutes, seconds\obj\Debug\seconds to hours, minutes, seconds.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\seconds to hours, minutes, seconds\seconds to hours, minutes, seconds\obj\Debug\seconds to hours, minutes, seconds.exe
+D:\Work\Quotient and remainder\seconds to hours, minutes, seconds\seconds to hours, minutes, seconds\obj\Debug\seconds to hours, minutes, seconds.pdb

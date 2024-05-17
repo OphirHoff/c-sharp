@@ -1,0 +1,16 @@
+D:\C#\RecursionExcercises\RecursionExcercises\bin\Debug\RecursionExcercises.exe.config
+D:\C#\RecursionExcercises\RecursionExcercises\bin\Debug\RecursionExcercises.exe
+D:\C#\RecursionExcercises\RecursionExcercises\bin\Debug\RecursionExcercises.pdb
+D:\C#\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.csproj.AssemblyReference.cache
+D:\C#\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.csproj.SuggestedBindingRedirects.cache
+D:\C#\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.csproj.CoreCompileInputs.cache
+D:\C#\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.exe
+D:\C#\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.pdb
+D:\C#\Recursion\RecursionExcercises\RecursionExcercises\bin\Debug\RecursionExcercises.exe.config
+D:\C#\Recursion\RecursionExcercises\RecursionExcercises\bin\Debug\RecursionExcercises.exe
+D:\C#\Recursion\RecursionExcercises\RecursionExcercises\bin\Debug\RecursionExcercises.pdb
+D:\C#\Recursion\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.csproj.AssemblyReference.cache
+D:\C#\Recursion\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.csproj.SuggestedBindingRedirects.cache
+D:\C#\Recursion\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.csproj.CoreCompileInputs.cache
+D:\C#\Recursion\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.exe
+D:\C#\Recursion\RecursionExcercises\RecursionExcercises\obj\Debug\RecursionExcercises.pdb

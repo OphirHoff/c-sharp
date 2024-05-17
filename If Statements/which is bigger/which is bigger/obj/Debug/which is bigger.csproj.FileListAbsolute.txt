@@ -1,0 +1,16 @@
+D:\Work\which is bigger\which is bigger\obj\Debug\which is bigger.csproj.AssemblyReference.cache
+D:\Work\which is bigger\which is bigger\obj\Debug\which is bigger.csproj.SuggestedBindingRedirects.cache
+D:\Work\which is bigger\which is bigger\obj\Debug\which is bigger.csproj.CoreCompileInputs.cache
+D:\Work\which is bigger\which is bigger\bin\Debug\which is bigger.exe.config
+D:\Work\which is bigger\which is bigger\bin\Debug\which is bigger.exe
+D:\Work\which is bigger\which is bigger\bin\Debug\which is bigger.pdb
+D:\Work\which is bigger\which is bigger\obj\Debug\which is bigger.exe
+D:\Work\which is bigger\which is bigger\obj\Debug\which is bigger.pdb
+D:\Work\If Statements\which is bigger\which is bigger\bin\Debug\which is bigger.exe.config
+D:\Work\If Statements\which is bigger\which is bigger\bin\Debug\which is bigger.exe
+D:\Work\If Statements\which is bigger\which is bigger\bin\Debug\which is bigger.pdb
+D:\Work\If Statements\which is bigger\which is bigger\obj\Debug\which is bigger.csproj.AssemblyReference.cache
+D:\Work\If Statements\which is bigger\which is bigger\obj\Debug\which is bigger.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\which is bigger\which is bigger\obj\Debug\which is bigger.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\which is bigger\which is bigger\obj\Debug\which is bigger.exe
+D:\Work\If Statements\which is bigger\which is bigger\obj\Debug\which is bigger.pdb

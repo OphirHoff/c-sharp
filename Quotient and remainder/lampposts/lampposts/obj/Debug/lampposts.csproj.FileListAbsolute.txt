@@ -1,0 +1,16 @@
+D:\Work\Quotient and remainder\lampposts\lampposts\bin\Debug\lampposts.exe.config
+D:\Work\Quotient and remainder\lampposts\lampposts\bin\Debug\lampposts.exe
+D:\Work\Quotient and remainder\lampposts\lampposts\bin\Debug\lampposts.pdb
+D:\Work\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.exe
+D:\Work\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.pdb
+D:\C#\Quotient and remainder\lampposts\lampposts\bin\Debug\lampposts.exe.config
+D:\C#\Quotient and remainder\lampposts\lampposts\bin\Debug\lampposts.exe
+D:\C#\Quotient and remainder\lampposts\lampposts\bin\Debug\lampposts.pdb
+D:\C#\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.csproj.AssemblyReference.cache
+D:\C#\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.csproj.SuggestedBindingRedirects.cache
+D:\C#\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.csproj.CoreCompileInputs.cache
+D:\C#\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.exe
+D:\C#\Quotient and remainder\lampposts\lampposts\obj\Debug\lampposts.pdb

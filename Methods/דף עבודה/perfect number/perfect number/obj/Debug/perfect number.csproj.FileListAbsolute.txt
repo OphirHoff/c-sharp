@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\perfect number\perfect number\bin\Debug\perfect number.exe.config
+D:\Work\Methods\דף עבודה\perfect number\perfect number\bin\Debug\perfect number.exe
+D:\Work\Methods\דף עבודה\perfect number\perfect number\bin\Debug\perfect number.pdb
+D:\Work\Methods\דף עבודה\perfect number\perfect number\obj\Debug\perfect number.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\perfect number\perfect number\obj\Debug\perfect number.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\perfect number\perfect number\obj\Debug\perfect number.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\perfect number\perfect number\obj\Debug\perfect number.exe
+D:\Work\Methods\דף עבודה\perfect number\perfect number\obj\Debug\perfect number.pdb

@@ -1,0 +1,29 @@
+C:\Users\Emil\Downloads\Circle\Circle\Circle\bin\Debug\Circle.exe.config
+C:\Users\Emil\Downloads\Circle\Circle\Circle\bin\Debug\Circle.exe
+C:\Users\Emil\Downloads\Circle\Circle\Circle\bin\Debug\Circle.pdb
+C:\Users\Emil\Downloads\Circle\Circle\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Downloads\Circle\Circle\Circle\obj\Debug\Circle.exe
+C:\Users\Emil\Downloads\Circle\Circle\Circle\obj\Debug\Circle.pdb
+W:\Emil\סייבר\יסודות\08. מחלקות\Circle\Circle\bin\Debug\Circle.exe.config
+W:\Emil\סייבר\יסודות\08. מחלקות\Circle\Circle\bin\Debug\Circle.exe
+W:\Emil\סייבר\יסודות\08. מחלקות\Circle\Circle\bin\Debug\Circle.pdb
+W:\Emil\סייבר\יסודות\08. מחלקות\Circle\Circle\obj\Debug\Circle.csprojAssemblyReference.cache
+W:\Emil\סייבר\יסודות\08. מחלקות\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+W:\Emil\סייבר\יסודות\08. מחלקות\Circle\Circle\obj\Debug\Circle.exe
+W:\Emil\סייבר\יסודות\08. מחלקות\Circle\Circle\obj\Debug\Circle.pdb
+E:\C#\Classes\Circle\Circle\bin\Debug\Circle.exe.config
+E:\C#\Classes\Circle\Circle\bin\Debug\Circle.exe
+E:\C#\Classes\Circle\Circle\bin\Debug\Circle.pdb
+E:\C#\Classes\Circle\Circle\obj\Debug\Circle.csproj.AssemblyReference.cache
+E:\C#\Classes\Circle\Circle\obj\Debug\Circle.csproj.SuggestedBindingRedirects.cache
+E:\C#\Classes\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+E:\C#\Classes\Circle\Circle\obj\Debug\Circle.exe
+E:\C#\Classes\Circle\Circle\obj\Debug\Circle.pdb
+D:\C#\Classes\Circle\Circle\bin\Debug\Circle.exe.config
+D:\C#\Classes\Circle\Circle\bin\Debug\Circle.exe
+D:\C#\Classes\Circle\Circle\bin\Debug\Circle.pdb
+D:\C#\Classes\Circle\Circle\obj\Debug\Circle.csproj.AssemblyReference.cache
+D:\C#\Classes\Circle\Circle\obj\Debug\Circle.csproj.SuggestedBindingRedirects.cache
+D:\C#\Classes\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+D:\C#\Classes\Circle\Circle\obj\Debug\Circle.exe
+D:\C#\Classes\Circle\Circle\obj\Debug\Circle.pdb

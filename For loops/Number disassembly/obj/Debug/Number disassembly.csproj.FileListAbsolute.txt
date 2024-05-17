@@ -1,0 +1,7 @@
+E:\Work\For loops\Number disassembly\bin\Debug\Number disassembly.exe.config
+E:\Work\For loops\Number disassembly\bin\Debug\Number disassembly.exe
+E:\Work\For loops\Number disassembly\bin\Debug\Number disassembly.pdb
+E:\Work\For loops\Number disassembly\obj\Debug\Number disassembly.csprojAssemblyReference.cache
+E:\Work\For loops\Number disassembly\obj\Debug\Number disassembly.csproj.CoreCompileInputs.cache
+E:\Work\For loops\Number disassembly\obj\Debug\Number disassembly.exe
+E:\Work\For loops\Number disassembly\obj\Debug\Number disassembly.pdb

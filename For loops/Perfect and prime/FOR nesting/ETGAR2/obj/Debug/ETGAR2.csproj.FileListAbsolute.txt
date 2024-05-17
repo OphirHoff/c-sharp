@@ -1,0 +1,7 @@
+E:\Work\For loops\ETGAR2\obj\Debug\ETGAR2.csprojAssemblyReference.cache
+E:\Work\For loops\ETGAR2\obj\Debug\ETGAR2.csproj.CoreCompileInputs.cache
+E:\Work\For loops\ETGAR2\bin\Debug\ETGAR2.exe.config
+E:\Work\For loops\ETGAR2\bin\Debug\ETGAR2.exe
+E:\Work\For loops\ETGAR2\bin\Debug\ETGAR2.pdb
+E:\Work\For loops\ETGAR2\obj\Debug\ETGAR2.exe
+E:\Work\For loops\ETGAR2\obj\Debug\ETGAR2.pdb

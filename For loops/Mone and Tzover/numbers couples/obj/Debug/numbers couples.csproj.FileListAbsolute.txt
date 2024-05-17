@@ -1,0 +1,7 @@
+E:\Work\For loops\Mone and Tzover\numbers couples\bin\Debug\numbers couples.exe.config
+E:\Work\For loops\Mone and Tzover\numbers couples\bin\Debug\numbers couples.exe
+E:\Work\For loops\Mone and Tzover\numbers couples\bin\Debug\numbers couples.pdb
+E:\Work\For loops\Mone and Tzover\numbers couples\obj\Debug\numbers couples.csprojAssemblyReference.cache
+E:\Work\For loops\Mone and Tzover\numbers couples\obj\Debug\numbers couples.csproj.CoreCompileInputs.cache
+E:\Work\For loops\Mone and Tzover\numbers couples\obj\Debug\numbers couples.exe
+E:\Work\For loops\Mone and Tzover\numbers couples\obj\Debug\numbers couples.pdb

@@ -1,0 +1,7 @@
+E:\Work\For loops\Is it a perfect number\obj\Debug\Is it a perfect number.csprojAssemblyReference.cache
+E:\Work\For loops\Is it a perfect number\obj\Debug\Is it a perfect number.csproj.CoreCompileInputs.cache
+E:\Work\For loops\Is it a perfect number\bin\Debug\Is it a perfect number.exe.config
+E:\Work\For loops\Is it a perfect number\bin\Debug\Is it a perfect number.exe
+E:\Work\For loops\Is it a perfect number\bin\Debug\Is it a perfect number.pdb
+E:\Work\For loops\Is it a perfect number\obj\Debug\Is it a perfect number.exe
+E:\Work\For loops\Is it a perfect number\obj\Debug\Is it a perfect number.pdb

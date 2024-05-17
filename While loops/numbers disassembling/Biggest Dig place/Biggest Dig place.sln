@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biggest Dig place", "Biggest Dig place\Biggest Dig place.csproj", "{D985C1B3-1027-4669-A40C-71E27FD4C70C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D985C1B3-1027-4669-A40C-71E27FD4C70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D985C1B3-1027-4669-A40C-71E27FD4C70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D985C1B3-1027-4669-A40C-71E27FD4C70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D985C1B3-1027-4669-A40C-71E27FD4C70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D220AF7E-CD09-4903-8363-2E0794B01C1B}
+	EndGlobalSection
+EndGlobal

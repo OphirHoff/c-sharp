@@ -1,0 +1,7 @@
+E:\Work\For loops\Prime number\bin\Debug\Prime number.exe.config
+E:\Work\For loops\Prime number\bin\Debug\Prime number.exe
+E:\Work\For loops\Prime number\bin\Debug\Prime number.pdb
+E:\Work\For loops\Prime number\obj\Debug\Prime number.csprojAssemblyReference.cache
+E:\Work\For loops\Prime number\obj\Debug\Prime number.csproj.CoreCompileInputs.cache
+E:\Work\For loops\Prime number\obj\Debug\Prime number.exe
+E:\Work\For loops\Prime number\obj\Debug\Prime number.pdb

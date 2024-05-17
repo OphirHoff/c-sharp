@@ -1,0 +1,8 @@
+D:\Work\While loops\while zakif\is divisible by 5\is divisible by 5\bin\Debug\is divisible by 5.exe.config
+D:\Work\While loops\while zakif\is divisible by 5\is divisible by 5\bin\Debug\is divisible by 5.exe
+D:\Work\While loops\while zakif\is divisible by 5\is divisible by 5\bin\Debug\is divisible by 5.pdb
+D:\Work\While loops\while zakif\is divisible by 5\is divisible by 5\obj\Debug\is divisible by 5.csproj.AssemblyReference.cache
+D:\Work\While loops\while zakif\is divisible by 5\is divisible by 5\obj\Debug\is divisible by 5.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\while zakif\is divisible by 5\is divisible by 5\obj\Debug\is divisible by 5.csproj.CoreCompileInputs.cache
+D:\Work\While loops\while zakif\is divisible by 5\is divisible by 5\obj\Debug\is divisible by 5.exe
+D:\Work\While loops\while zakif\is divisible by 5\is divisible by 5\obj\Debug\is divisible by 5.pdb

@@ -1,0 +1,8 @@
+D:\Work\print whole number\print whole number\bin\Debug\print whole number.exe.config
+D:\Work\print whole number\print whole number\bin\Debug\print whole number.exe
+D:\Work\print whole number\print whole number\bin\Debug\print whole number.pdb
+D:\Work\print whole number\print whole number\obj\Debug\print whole number.csproj.AssemblyReference.cache
+D:\Work\print whole number\print whole number\obj\Debug\print whole number.csproj.SuggestedBindingRedirects.cache
+D:\Work\print whole number\print whole number\obj\Debug\print whole number.csproj.CoreCompileInputs.cache
+D:\Work\print whole number\print whole number\obj\Debug\print whole number.exe
+D:\Work\print whole number\print whole number\obj\Debug\print whole number.pdb

@@ -1,0 +1,8 @@
+D:\C#\Recursion\Simetric Sum array\Simetric Sum array\bin\Debug\Simetric Sum array.exe.config
+D:\C#\Recursion\Simetric Sum array\Simetric Sum array\bin\Debug\Simetric Sum array.exe
+D:\C#\Recursion\Simetric Sum array\Simetric Sum array\bin\Debug\Simetric Sum array.pdb
+D:\C#\Recursion\Simetric Sum array\Simetric Sum array\obj\Debug\Simetric Sum array.csproj.AssemblyReference.cache
+D:\C#\Recursion\Simetric Sum array\Simetric Sum array\obj\Debug\Simetric Sum array.csproj.SuggestedBindingRedirects.cache
+D:\C#\Recursion\Simetric Sum array\Simetric Sum array\obj\Debug\Simetric Sum array.csproj.CoreCompileInputs.cache
+D:\C#\Recursion\Simetric Sum array\Simetric Sum array\obj\Debug\Simetric Sum array.exe
+D:\C#\Recursion\Simetric Sum array\Simetric Sum array\obj\Debug\Simetric Sum array.pdb

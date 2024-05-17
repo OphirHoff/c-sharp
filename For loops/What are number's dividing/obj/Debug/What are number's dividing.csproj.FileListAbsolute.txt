@@ -1,0 +1,7 @@
+E:\Work\For loops\What are number's dividing\bin\Debug\What are number's dividing.exe.config
+E:\Work\For loops\What are number's dividing\bin\Debug\What are number's dividing.exe
+E:\Work\For loops\What are number's dividing\bin\Debug\What are number's dividing.pdb
+E:\Work\For loops\What are number's dividing\obj\Debug\What are number's dividing.csprojAssemblyReference.cache
+E:\Work\For loops\What are number's dividing\obj\Debug\What are number's dividing.csproj.CoreCompileInputs.cache
+E:\Work\For loops\What are number's dividing\obj\Debug\What are number's dividing.exe
+E:\Work\For loops\What are number's dividing\obj\Debug\What are number's dividing.pdb

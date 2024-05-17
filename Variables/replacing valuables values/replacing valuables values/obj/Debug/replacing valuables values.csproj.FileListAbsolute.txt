@@ -1,0 +1,8 @@
+D:\Work\replacing valuables values\replacing valuables values\bin\Debug\replacing valuables values.exe.config
+D:\Work\replacing valuables values\replacing valuables values\bin\Debug\replacing valuables values.exe
+D:\Work\replacing valuables values\replacing valuables values\bin\Debug\replacing valuables values.pdb
+D:\Work\replacing valuables values\replacing valuables values\obj\Debug\replacing valuables values.csproj.AssemblyReference.cache
+D:\Work\replacing valuables values\replacing valuables values\obj\Debug\replacing valuables values.csproj.SuggestedBindingRedirects.cache
+D:\Work\replacing valuables values\replacing valuables values\obj\Debug\replacing valuables values.csproj.CoreCompileInputs.cache
+D:\Work\replacing valuables values\replacing valuables values\obj\Debug\replacing valuables values.exe
+D:\Work\replacing valuables values\replacing valuables values\obj\Debug\replacing valuables values.pdb

@@ -1,0 +1,15 @@
+E:\Work\For loops\ETGAR5\bin\Debug\ETGAR5.exe.config
+E:\Work\For loops\ETGAR5\bin\Debug\ETGAR5.exe
+E:\Work\For loops\ETGAR5\bin\Debug\ETGAR5.pdb
+E:\Work\For loops\ETGAR5\obj\Debug\ETGAR5.csprojAssemblyReference.cache
+E:\Work\For loops\ETGAR5\obj\Debug\ETGAR5.csproj.CoreCompileInputs.cache
+E:\Work\For loops\ETGAR5\obj\Debug\ETGAR5.exe
+E:\Work\For loops\ETGAR5\obj\Debug\ETGAR5.pdb
+D:\Work\For loops\FOR nesting\ETGAR5\bin\Debug\ETGAR5.exe.config
+D:\Work\For loops\FOR nesting\ETGAR5\bin\Debug\ETGAR5.exe
+D:\Work\For loops\FOR nesting\ETGAR5\bin\Debug\ETGAR5.pdb
+D:\Work\For loops\FOR nesting\ETGAR5\obj\Debug\ETGAR5.csproj.AssemblyReference.cache
+D:\Work\For loops\FOR nesting\ETGAR5\obj\Debug\ETGAR5.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\FOR nesting\ETGAR5\obj\Debug\ETGAR5.csproj.CoreCompileInputs.cache
+D:\Work\For loops\FOR nesting\ETGAR5\obj\Debug\ETGAR5.exe
+D:\Work\For loops\FOR nesting\ETGAR5\obj\Debug\ETGAR5.pdb

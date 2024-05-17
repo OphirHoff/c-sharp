@@ -1,0 +1,8 @@
+D:\Work\valuables restaurant exersice\valuables restaurant exersice\bin\Debug\valuables restaurant exersice.exe.config
+D:\Work\valuables restaurant exersice\valuables restaurant exersice\bin\Debug\valuables restaurant exersice.exe
+D:\Work\valuables restaurant exersice\valuables restaurant exersice\bin\Debug\valuables restaurant exersice.pdb
+D:\Work\valuables restaurant exersice\valuables restaurant exersice\obj\Debug\valuables restaurant exersice.csproj.AssemblyReference.cache
+D:\Work\valuables restaurant exersice\valuables restaurant exersice\obj\Debug\valuables restaurant exersice.csproj.SuggestedBindingRedirects.cache
+D:\Work\valuables restaurant exersice\valuables restaurant exersice\obj\Debug\valuables restaurant exersice.csproj.CoreCompileInputs.cache
+D:\Work\valuables restaurant exersice\valuables restaurant exersice\obj\Debug\valuables restaurant exersice.exe
+D:\Work\valuables restaurant exersice\valuables restaurant exersice\obj\Debug\valuables restaurant exersice.pdb

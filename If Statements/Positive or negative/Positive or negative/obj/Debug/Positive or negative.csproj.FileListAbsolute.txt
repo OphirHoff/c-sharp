@@ -1,0 +1,8 @@
+D:\Work\If Statements\Positive or negative\Positive or negative\bin\Debug\Positive or negative.exe.config
+D:\Work\If Statements\Positive or negative\Positive or negative\bin\Debug\Positive or negative.exe
+D:\Work\If Statements\Positive or negative\Positive or negative\bin\Debug\Positive or negative.pdb
+D:\Work\If Statements\Positive or negative\Positive or negative\obj\Debug\Positive or negative.csproj.AssemblyReference.cache
+D:\Work\If Statements\Positive or negative\Positive or negative\obj\Debug\Positive or negative.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\Positive or negative\Positive or negative\obj\Debug\Positive or negative.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\Positive or negative\Positive or negative\obj\Debug\Positive or negative.exe
+D:\Work\If Statements\Positive or negative\Positive or negative\obj\Debug\Positive or negative.pdb

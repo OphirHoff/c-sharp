@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number turning", "number turning\number turning.csproj", "{A2770BD8-7A7D-4036-978F-18CA091EB30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2770BD8-7A7D-4036-978F-18CA091EB30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2770BD8-7A7D-4036-978F-18CA091EB30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2770BD8-7A7D-4036-978F-18CA091EB30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2770BD8-7A7D-4036-978F-18CA091EB30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13990139-1138-42EC-A364-7CC65FD76EB8}
+	EndGlobalSection
+EndGlobal

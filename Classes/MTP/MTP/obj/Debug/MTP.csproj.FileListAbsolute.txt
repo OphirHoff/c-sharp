@@ -1,0 +1,8 @@
+D:\C#\Classes\MTP\MTP\obj\Debug\MTP.csproj.AssemblyReference.cache
+D:\C#\Classes\MTP\MTP\obj\Debug\MTP.csproj.SuggestedBindingRedirects.cache
+D:\C#\Classes\MTP\MTP\obj\Debug\MTP.csproj.CoreCompileInputs.cache
+D:\C#\Classes\MTP\MTP\bin\Debug\MTP.exe.config
+D:\C#\Classes\MTP\MTP\bin\Debug\MTP.exe
+D:\C#\Classes\MTP\MTP\bin\Debug\MTP.pdb
+D:\C#\Classes\MTP\MTP\obj\Debug\MTP.exe
+D:\C#\Classes\MTP\MTP\obj\Debug\MTP.pdb

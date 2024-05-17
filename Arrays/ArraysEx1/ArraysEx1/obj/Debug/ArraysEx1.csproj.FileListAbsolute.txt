@@ -1,0 +1,16 @@
+D:\C#\Arrays\ArraysEx1\ArraysEx1\bin\Debug\ArraysEx1.exe.config
+D:\C#\Arrays\ArraysEx1\ArraysEx1\bin\Debug\ArraysEx1.exe
+D:\C#\Arrays\ArraysEx1\ArraysEx1\bin\Debug\ArraysEx1.pdb
+D:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.csproj.AssemblyReference.cache
+D:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.csproj.SuggestedBindingRedirects.cache
+D:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.csproj.CoreCompileInputs.cache
+D:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.exe
+D:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.pdb
+E:\C#\Arrays\ArraysEx1\ArraysEx1\bin\Debug\ArraysEx1.exe.config
+E:\C#\Arrays\ArraysEx1\ArraysEx1\bin\Debug\ArraysEx1.exe
+E:\C#\Arrays\ArraysEx1\ArraysEx1\bin\Debug\ArraysEx1.pdb
+E:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.csproj.AssemblyReference.cache
+E:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.csproj.SuggestedBindingRedirects.cache
+E:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.csproj.CoreCompileInputs.cache
+E:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.exe
+E:\C#\Arrays\ArraysEx1\ArraysEx1\obj\Debug\ArraysEx1.pdb

@@ -1,0 +1,7 @@
+E:\C#\Automats\obj\Debug\Automats.csprojAssemblyReference.cache
+E:\C#\Automats\obj\Debug\Automats.csproj.CoreCompileInputs.cache
+E:\C#\Automats\bin\Debug\Automats.exe.config
+E:\C#\Automats\bin\Debug\Automats.exe
+E:\C#\Automats\bin\Debug\Automats.pdb
+E:\C#\Automats\obj\Debug\Automats.exe
+E:\C#\Automats\obj\Debug\Automats.pdb

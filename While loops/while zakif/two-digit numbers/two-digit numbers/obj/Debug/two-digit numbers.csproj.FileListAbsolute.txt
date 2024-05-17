@@ -1,0 +1,8 @@
+D:\Work\While loops\while zakif\two-digit numbers\two-digit numbers\bin\Debug\two-digit numbers.exe.config
+D:\Work\While loops\while zakif\two-digit numbers\two-digit numbers\bin\Debug\two-digit numbers.exe
+D:\Work\While loops\while zakif\two-digit numbers\two-digit numbers\bin\Debug\two-digit numbers.pdb
+D:\Work\While loops\while zakif\two-digit numbers\two-digit numbers\obj\Debug\two-digit numbers.csproj.AssemblyReference.cache
+D:\Work\While loops\while zakif\two-digit numbers\two-digit numbers\obj\Debug\two-digit numbers.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\while zakif\two-digit numbers\two-digit numbers\obj\Debug\two-digit numbers.csproj.CoreCompileInputs.cache
+D:\Work\While loops\while zakif\two-digit numbers\two-digit numbers\obj\Debug\two-digit numbers.exe
+D:\Work\While loops\while zakif\two-digit numbers\two-digit numbers\obj\Debug\two-digit numbers.pdb

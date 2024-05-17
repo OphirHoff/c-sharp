@@ -1,0 +1,8 @@
+D:\Work\While loops\numbers disassembling\max digit\max digit\bin\Debug\max digit.exe.config
+D:\Work\While loops\numbers disassembling\max digit\max digit\bin\Debug\max digit.exe
+D:\Work\While loops\numbers disassembling\max digit\max digit\bin\Debug\max digit.pdb
+D:\Work\While loops\numbers disassembling\max digit\max digit\obj\Debug\max digit.csproj.AssemblyReference.cache
+D:\Work\While loops\numbers disassembling\max digit\max digit\obj\Debug\max digit.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\numbers disassembling\max digit\max digit\obj\Debug\max digit.csproj.CoreCompileInputs.cache
+D:\Work\While loops\numbers disassembling\max digit\max digit\obj\Debug\max digit.exe
+D:\Work\While loops\numbers disassembling\max digit\max digit\obj\Debug\max digit.pdb

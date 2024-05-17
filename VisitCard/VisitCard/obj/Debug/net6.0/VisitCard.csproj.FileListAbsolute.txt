@@ -1,0 +1,15 @@
+D:\Work\VisitCard\VisitCard\bin\Debug\net6.0\VisitCard.exe
+D:\Work\VisitCard\VisitCard\bin\Debug\net6.0\VisitCard.deps.json
+D:\Work\VisitCard\VisitCard\bin\Debug\net6.0\VisitCard.runtimeconfig.json
+D:\Work\VisitCard\VisitCard\bin\Debug\net6.0\VisitCard.dll
+D:\Work\VisitCard\VisitCard\bin\Debug\net6.0\VisitCard.pdb
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\VisitCard.csproj.AssemblyReference.cache
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\VisitCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\VisitCard.AssemblyInfoInputs.cache
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\VisitCard.AssemblyInfo.cs
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\VisitCard.csproj.CoreCompileInputs.cache
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\VisitCard.dll
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\refint\VisitCard.dll
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\VisitCard.pdb
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\VisitCard.genruntimeconfig.cache
+D:\Work\VisitCard\VisitCard\obj\Debug\net6.0\ref\VisitCard.dll

@@ -1,0 +1,8 @@
+D:\Work\If Statements\check 3 numbers\check 3 numbers\bin\Debug\check 3 numbers.exe.config
+D:\Work\If Statements\check 3 numbers\check 3 numbers\bin\Debug\check 3 numbers.exe
+D:\Work\If Statements\check 3 numbers\check 3 numbers\bin\Debug\check 3 numbers.pdb
+D:\Work\If Statements\check 3 numbers\check 3 numbers\obj\Debug\check 3 numbers.csproj.AssemblyReference.cache
+D:\Work\If Statements\check 3 numbers\check 3 numbers\obj\Debug\check 3 numbers.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\check 3 numbers\check 3 numbers\obj\Debug\check 3 numbers.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\check 3 numbers\check 3 numbers\obj\Debug\check 3 numbers.exe
+D:\Work\If Statements\check 3 numbers\check 3 numbers\obj\Debug\check 3 numbers.pdb

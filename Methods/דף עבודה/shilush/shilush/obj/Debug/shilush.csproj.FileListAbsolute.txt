@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\shilush\shilush\obj\Debug\shilush.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\shilush\shilush\obj\Debug\shilush.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\shilush\shilush\obj\Debug\shilush.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\shilush\shilush\bin\Debug\shilush.exe.config
+D:\Work\Methods\דף עבודה\shilush\shilush\bin\Debug\shilush.exe
+D:\Work\Methods\דף עבודה\shilush\shilush\bin\Debug\shilush.pdb
+D:\Work\Methods\דף עבודה\shilush\shilush\obj\Debug\shilush.exe
+D:\Work\Methods\דף עבודה\shilush\shilush\obj\Debug\shilush.pdb

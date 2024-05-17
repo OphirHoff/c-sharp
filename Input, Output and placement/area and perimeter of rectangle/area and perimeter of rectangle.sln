@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area and perimeter of rectangle", "area and perimeter of rectangle\area and perimeter of rectangle.csproj", "{D3AABFA4-E095-4292-A9C4-AE61115847AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AABFA4-E095-4292-A9C4-AE61115847AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AABFA4-E095-4292-A9C4-AE61115847AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AABFA4-E095-4292-A9C4-AE61115847AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AABFA4-E095-4292-A9C4-AE61115847AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4EEE5E3-D586-42E3-B14A-7D81897F8411}
+	EndGlobalSection
+EndGlobal

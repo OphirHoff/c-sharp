@@ -1,0 +1,14 @@
+F:\C#\Two Dimentional arrays\Magic Square\Magic Square\bin\Debug\Magic Square.exe.config
+F:\C#\Two Dimentional arrays\Magic Square\Magic Square\bin\Debug\Magic Square.exe
+F:\C#\Two Dimentional arrays\Magic Square\Magic Square\bin\Debug\Magic Square.pdb
+F:\C#\Two Dimentional arrays\Magic Square\Magic Square\obj\Debug\Magic Square.csprojAssemblyReference.cache
+F:\C#\Two Dimentional arrays\Magic Square\Magic Square\obj\Debug\Magic Square.exe
+F:\C#\Two Dimentional arrays\Magic Square\Magic Square\obj\Debug\Magic Square.pdb
+D:\C#\Two Dimentional arrays\Magic Square\Magic Square\bin\Debug\Magic Square.exe.config
+D:\C#\Two Dimentional arrays\Magic Square\Magic Square\bin\Debug\Magic Square.exe
+D:\C#\Two Dimentional arrays\Magic Square\Magic Square\bin\Debug\Magic Square.pdb
+D:\C#\Two Dimentional arrays\Magic Square\Magic Square\obj\Debug\Magic Square.csproj.AssemblyReference.cache
+D:\C#\Two Dimentional arrays\Magic Square\Magic Square\obj\Debug\Magic Square.csproj.SuggestedBindingRedirects.cache
+D:\C#\Two Dimentional arrays\Magic Square\Magic Square\obj\Debug\Magic Square.csproj.CoreCompileInputs.cache
+D:\C#\Two Dimentional arrays\Magic Square\Magic Square\obj\Debug\Magic Square.exe
+D:\C#\Two Dimentional arrays\Magic Square\Magic Square\obj\Debug\Magic Square.pdb

@@ -1,0 +1,8 @@
+D:\Work\While loops\numbers disassembling\all equal or different\all equal or different\bin\Debug\all equal or different.exe.config
+D:\Work\While loops\numbers disassembling\all equal or different\all equal or different\bin\Debug\all equal or different.exe
+D:\Work\While loops\numbers disassembling\all equal or different\all equal or different\bin\Debug\all equal or different.pdb
+D:\Work\While loops\numbers disassembling\all equal or different\all equal or different\obj\Debug\all equal or different.csproj.AssemblyReference.cache
+D:\Work\While loops\numbers disassembling\all equal or different\all equal or different\obj\Debug\all equal or different.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\numbers disassembling\all equal or different\all equal or different\obj\Debug\all equal or different.csproj.CoreCompileInputs.cache
+D:\Work\While loops\numbers disassembling\all equal or different\all equal or different\obj\Debug\all equal or different.exe
+D:\Work\While loops\numbers disassembling\all equal or different\all equal or different\obj\Debug\all equal or different.pdb

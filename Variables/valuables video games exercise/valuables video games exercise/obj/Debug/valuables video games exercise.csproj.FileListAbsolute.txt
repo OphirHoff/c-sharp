@@ -1,0 +1,16 @@
+D:\Work\valuables video games exercise\valuables video games exercise\bin\Debug\valuables video games exercise.exe.config
+D:\Work\valuables video games exercise\valuables video games exercise\bin\Debug\valuables video games exercise.exe
+D:\Work\valuables video games exercise\valuables video games exercise\bin\Debug\valuables video games exercise.pdb
+D:\Work\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.csproj.AssemblyReference.cache
+D:\Work\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.csproj.SuggestedBindingRedirects.cache
+D:\Work\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.csproj.CoreCompileInputs.cache
+D:\Work\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.exe
+D:\Work\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.pdb
+D:\Work\Variables\valuables video games exercise\valuables video games exercise\bin\Debug\valuables video games exercise.exe.config
+D:\Work\Variables\valuables video games exercise\valuables video games exercise\bin\Debug\valuables video games exercise.exe
+D:\Work\Variables\valuables video games exercise\valuables video games exercise\bin\Debug\valuables video games exercise.pdb
+D:\Work\Variables\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.csproj.AssemblyReference.cache
+D:\Work\Variables\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.csproj.SuggestedBindingRedirects.cache
+D:\Work\Variables\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.csproj.CoreCompileInputs.cache
+D:\Work\Variables\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.exe
+D:\Work\Variables\valuables video games exercise\valuables video games exercise\obj\Debug\valuables video games exercise.pdb

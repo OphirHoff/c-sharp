@@ -1,0 +1,8 @@
+D:\C#\Arrays\CellPhone\CellPhone\bin\Debug\CellPhone.exe.config
+D:\C#\Arrays\CellPhone\CellPhone\bin\Debug\CellPhone.exe
+D:\C#\Arrays\CellPhone\CellPhone\bin\Debug\CellPhone.pdb
+D:\C#\Arrays\CellPhone\CellPhone\obj\Debug\CellPhone.csproj.AssemblyReference.cache
+D:\C#\Arrays\CellPhone\CellPhone\obj\Debug\CellPhone.csproj.SuggestedBindingRedirects.cache
+D:\C#\Arrays\CellPhone\CellPhone\obj\Debug\CellPhone.csproj.CoreCompileInputs.cache
+D:\C#\Arrays\CellPhone\CellPhone\obj\Debug\CellPhone.exe
+D:\C#\Arrays\CellPhone\CellPhone\obj\Debug\CellPhone.pdb

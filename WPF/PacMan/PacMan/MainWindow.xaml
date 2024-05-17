@@ -1,0 +1,36 @@
+﻿<Window x:Class="PacMan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PacMan"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="434" Margin="479,0,0,0" Stroke="Black" VerticalAlignment="Center" Width="13" RenderTransformOrigin="0.5,0.5" StrokeThickness="6.7">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.146"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Canvas HorizontalAlignment="Left" Height="434" VerticalAlignment="Center" Width="478" RenderTransformOrigin="0.5,0.5">
+            <Canvas.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.163"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Canvas.RenderTransform>
+        </Canvas>
+        
+        <Image x:Name="pacmanPic" Margin="218,127,510,237" Source="/Image1.png" Stretch="Fill" KeyDown="ChangeDirection"/>
+        <Button x:Name="startBtn" Content="Start" HorizontalAlignment="Left" Height="86" Margin="547,111,0,0" VerticalAlignment="Top" Width="177" Background="#FFFF6666" FontSize="38" Click="StartGame"/>
+
+        <Label x:Name="TimerLabel" Content="" />
+    </Grid>
+</Window>

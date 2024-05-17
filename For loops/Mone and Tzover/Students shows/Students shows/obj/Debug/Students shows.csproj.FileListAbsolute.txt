@@ -1,0 +1,8 @@
+D:\Work\For loops\Mone and Tzover\Students shows\Students shows\bin\Debug\Students shows.exe.config
+D:\Work\For loops\Mone and Tzover\Students shows\Students shows\bin\Debug\Students shows.exe
+D:\Work\For loops\Mone and Tzover\Students shows\Students shows\bin\Debug\Students shows.pdb
+D:\Work\For loops\Mone and Tzover\Students shows\Students shows\obj\Debug\Students shows.csproj.AssemblyReference.cache
+D:\Work\For loops\Mone and Tzover\Students shows\Students shows\obj\Debug\Students shows.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Mone and Tzover\Students shows\Students shows\obj\Debug\Students shows.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Mone and Tzover\Students shows\Students shows\obj\Debug\Students shows.exe
+D:\Work\For loops\Mone and Tzover\Students shows\Students shows\obj\Debug\Students shows.pdb

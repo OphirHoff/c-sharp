@@ -1,0 +1,8 @@
+D:\Work\If Statements\Is it an arithmetic progression\Is it an arithmetic progression\bin\Debug\Is it an arithmetic progression.exe.config
+D:\Work\If Statements\Is it an arithmetic progression\Is it an arithmetic progression\bin\Debug\Is it an arithmetic progression.exe
+D:\Work\If Statements\Is it an arithmetic progression\Is it an arithmetic progression\bin\Debug\Is it an arithmetic progression.pdb
+D:\Work\If Statements\Is it an arithmetic progression\Is it an arithmetic progression\obj\Debug\Is it an arithmetic progression.csproj.AssemblyReference.cache
+D:\Work\If Statements\Is it an arithmetic progression\Is it an arithmetic progression\obj\Debug\Is it an arithmetic progression.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\Is it an arithmetic progression\Is it an arithmetic progression\obj\Debug\Is it an arithmetic progression.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\Is it an arithmetic progression\Is it an arithmetic progression\obj\Debug\Is it an arithmetic progression.exe
+D:\Work\If Statements\Is it an arithmetic progression\Is it an arithmetic progression\obj\Debug\Is it an arithmetic progression.pdb

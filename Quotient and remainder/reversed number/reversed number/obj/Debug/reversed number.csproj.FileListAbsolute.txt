@@ -1,0 +1,16 @@
+D:\Work\reversed number\reversed number\bin\Debug\reversed number.exe.config
+D:\Work\reversed number\reversed number\bin\Debug\reversed number.exe
+D:\Work\reversed number\reversed number\bin\Debug\reversed number.pdb
+D:\Work\reversed number\reversed number\obj\Debug\reversed number.csproj.AssemblyReference.cache
+D:\Work\reversed number\reversed number\obj\Debug\reversed number.csproj.SuggestedBindingRedirects.cache
+D:\Work\reversed number\reversed number\obj\Debug\reversed number.csproj.CoreCompileInputs.cache
+D:\Work\reversed number\reversed number\obj\Debug\reversed number.exe
+D:\Work\reversed number\reversed number\obj\Debug\reversed number.pdb
+D:\Work\Quotient and remainder\reversed number\reversed number\bin\Debug\reversed number.exe.config
+D:\Work\Quotient and remainder\reversed number\reversed number\bin\Debug\reversed number.exe
+D:\Work\Quotient and remainder\reversed number\reversed number\bin\Debug\reversed number.pdb
+D:\Work\Quotient and remainder\reversed number\reversed number\obj\Debug\reversed number.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\reversed number\reversed number\obj\Debug\reversed number.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\reversed number\reversed number\obj\Debug\reversed number.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\reversed number\reversed number\obj\Debug\reversed number.exe
+D:\Work\Quotient and remainder\reversed number\reversed number\obj\Debug\reversed number.pdb

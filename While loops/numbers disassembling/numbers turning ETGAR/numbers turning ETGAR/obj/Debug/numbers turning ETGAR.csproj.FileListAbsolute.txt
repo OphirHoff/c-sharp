@@ -1,0 +1,8 @@
+D:\Work\While loops\numbers disassembling\numbers turning ETGAR\numbers turning ETGAR\obj\Debug\numbers turning ETGAR.csproj.AssemblyReference.cache
+D:\Work\While loops\numbers disassembling\numbers turning ETGAR\numbers turning ETGAR\obj\Debug\numbers turning ETGAR.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\numbers disassembling\numbers turning ETGAR\numbers turning ETGAR\obj\Debug\numbers turning ETGAR.csproj.CoreCompileInputs.cache
+D:\Work\While loops\numbers disassembling\numbers turning ETGAR\numbers turning ETGAR\bin\Debug\numbers turning ETGAR.exe.config
+D:\Work\While loops\numbers disassembling\numbers turning ETGAR\numbers turning ETGAR\bin\Debug\numbers turning ETGAR.exe
+D:\Work\While loops\numbers disassembling\numbers turning ETGAR\numbers turning ETGAR\bin\Debug\numbers turning ETGAR.pdb
+D:\Work\While loops\numbers disassembling\numbers turning ETGAR\numbers turning ETGAR\obj\Debug\numbers turning ETGAR.exe
+D:\Work\While loops\numbers disassembling\numbers turning ETGAR\numbers turning ETGAR\obj\Debug\numbers turning ETGAR.pdb

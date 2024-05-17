@@ -1,0 +1,8 @@
+D:\Work\If Statements\has 7 or divisible by 7\has 7 or divisible by 7\bin\Debug\has 7 or divisible by 7.exe.config
+D:\Work\If Statements\has 7 or divisible by 7\has 7 or divisible by 7\bin\Debug\has 7 or divisible by 7.exe
+D:\Work\If Statements\has 7 or divisible by 7\has 7 or divisible by 7\bin\Debug\has 7 or divisible by 7.pdb
+D:\Work\If Statements\has 7 or divisible by 7\has 7 or divisible by 7\obj\Debug\has 7 or divisible by 7.csproj.AssemblyReference.cache
+D:\Work\If Statements\has 7 or divisible by 7\has 7 or divisible by 7\obj\Debug\has 7 or divisible by 7.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\has 7 or divisible by 7\has 7 or divisible by 7\obj\Debug\has 7 or divisible by 7.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\has 7 or divisible by 7\has 7 or divisible by 7\obj\Debug\has 7 or divisible by 7.exe
+D:\Work\If Statements\has 7 or divisible by 7\has 7 or divisible by 7\obj\Debug\has 7 or divisible by 7.pdb

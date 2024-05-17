@@ -1,0 +1,8 @@
+D:\Work\If Statements\Grades avarage\Grades avarage\bin\Debug\Grades avarage.exe.config
+D:\Work\If Statements\Grades avarage\Grades avarage\bin\Debug\Grades avarage.exe
+D:\Work\If Statements\Grades avarage\Grades avarage\bin\Debug\Grades avarage.pdb
+D:\Work\If Statements\Grades avarage\Grades avarage\obj\Debug\Grades avarage.csproj.AssemblyReference.cache
+D:\Work\If Statements\Grades avarage\Grades avarage\obj\Debug\Grades avarage.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\Grades avarage\Grades avarage\obj\Debug\Grades avarage.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\Grades avarage\Grades avarage\obj\Debug\Grades avarage.exe
+D:\Work\If Statements\Grades avarage\Grades avarage\obj\Debug\Grades avarage.pdb

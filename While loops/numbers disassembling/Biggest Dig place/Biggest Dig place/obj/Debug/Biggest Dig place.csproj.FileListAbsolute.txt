@@ -1,0 +1,8 @@
+D:\C#\While loops\numbers disassembling\Biggest Dig place\Biggest Dig place\obj\Debug\Biggest Dig place.csproj.AssemblyReference.cache
+D:\C#\While loops\numbers disassembling\Biggest Dig place\Biggest Dig place\obj\Debug\Biggest Dig place.csproj.SuggestedBindingRedirects.cache
+D:\C#\While loops\numbers disassembling\Biggest Dig place\Biggest Dig place\obj\Debug\Biggest Dig place.csproj.CoreCompileInputs.cache
+D:\C#\While loops\numbers disassembling\Biggest Dig place\Biggest Dig place\bin\Debug\Biggest Dig place.exe.config
+D:\C#\While loops\numbers disassembling\Biggest Dig place\Biggest Dig place\bin\Debug\Biggest Dig place.exe
+D:\C#\While loops\numbers disassembling\Biggest Dig place\Biggest Dig place\bin\Debug\Biggest Dig place.pdb
+D:\C#\While loops\numbers disassembling\Biggest Dig place\Biggest Dig place\obj\Debug\Biggest Dig place.exe
+D:\C#\While loops\numbers disassembling\Biggest Dig place\Biggest Dig place\obj\Debug\Biggest Dig place.pdb

@@ -1,0 +1,6 @@
+E:\Work\For loops\numers disassembly 2\bin\Debug\numers disassembly 2.exe.config
+E:\Work\For loops\numers disassembly 2\bin\Debug\numers disassembly 2.exe
+E:\Work\For loops\numers disassembly 2\bin\Debug\numers disassembly 2.pdb
+E:\Work\For loops\numers disassembly 2\obj\Debug\numers disassembly 2.csproj.CoreCompileInputs.cache
+E:\Work\For loops\numers disassembly 2\obj\Debug\numers disassembly 2.exe
+E:\Work\For loops\numers disassembly 2\obj\Debug\numers disassembly 2.pdb

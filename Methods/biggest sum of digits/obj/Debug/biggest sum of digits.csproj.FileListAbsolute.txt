@@ -1,0 +1,7 @@
+E:\Work\Methods\biggest sum of digits\bin\Debug\biggest sum of digits.exe.config
+E:\Work\Methods\biggest sum of digits\bin\Debug\biggest sum of digits.exe
+E:\Work\Methods\biggest sum of digits\bin\Debug\biggest sum of digits.pdb
+E:\Work\Methods\biggest sum of digits\obj\Debug\biggest sum of digits.csprojAssemblyReference.cache
+E:\Work\Methods\biggest sum of digits\obj\Debug\biggest sum of digits.csproj.CoreCompileInputs.cache
+E:\Work\Methods\biggest sum of digits\obj\Debug\biggest sum of digits.exe
+E:\Work\Methods\biggest sum of digits\obj\Debug\biggest sum of digits.pdb

@@ -1,0 +1,8 @@
+D:\Work\For loops\Mone and Tzover\Check age\Check age\obj\Debug\Check age.csproj.AssemblyReference.cache
+D:\Work\For loops\Mone and Tzover\Check age\Check age\obj\Debug\Check age.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Mone and Tzover\Check age\Check age\obj\Debug\Check age.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Mone and Tzover\Check age\Check age\bin\Debug\Check age.exe.config
+D:\Work\For loops\Mone and Tzover\Check age\Check age\bin\Debug\Check age.exe
+D:\Work\For loops\Mone and Tzover\Check age\Check age\bin\Debug\Check age.pdb
+D:\Work\For loops\Mone and Tzover\Check age\Check age\obj\Debug\Check age.exe
+D:\Work\For loops\Mone and Tzover\Check age\Check age\obj\Debug\Check age.pdb

@@ -1,0 +1,8 @@
+D:\Work\While loops\while zakif\number and sum of digits\number and sum of digits\obj\Debug\number and sum of digits.csproj.AssemblyReference.cache
+D:\Work\While loops\while zakif\number and sum of digits\number and sum of digits\obj\Debug\number and sum of digits.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\while zakif\number and sum of digits\number and sum of digits\obj\Debug\number and sum of digits.csproj.CoreCompileInputs.cache
+D:\Work\While loops\while zakif\number and sum of digits\number and sum of digits\bin\Debug\number and sum of digits.exe.config
+D:\Work\While loops\while zakif\number and sum of digits\number and sum of digits\bin\Debug\number and sum of digits.exe
+D:\Work\While loops\while zakif\number and sum of digits\number and sum of digits\bin\Debug\number and sum of digits.pdb
+D:\Work\While loops\while zakif\number and sum of digits\number and sum of digits\obj\Debug\number and sum of digits.exe
+D:\Work\While loops\while zakif\number and sum of digits\number and sum of digits\obj\Debug\number and sum of digits.pdb

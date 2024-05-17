@@ -1,0 +1,7 @@
+E:\Work\While loops\While positive\obj\Debug\While positive.csprojAssemblyReference.cache
+E:\Work\While loops\While positive\obj\Debug\While positive.csproj.CoreCompileInputs.cache
+E:\Work\While loops\While positive\bin\Debug\While positive.exe.config
+E:\Work\While loops\While positive\bin\Debug\While positive.exe
+E:\Work\While loops\While positive\bin\Debug\While positive.pdb
+E:\Work\While loops\While positive\obj\Debug\While positive.exe
+E:\Work\While loops\While positive\obj\Debug\While positive.pdb

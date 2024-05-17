@@ -1,0 +1,8 @@
+D:\Work\If Statements\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Work\If Statements\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Work\If Statements\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Work\If Statements\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Work\If Statements\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Work\If Statements\Calculator\Calculator\obj\Debug\Calculator.pdb

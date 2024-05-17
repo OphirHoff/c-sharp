@@ -1,0 +1,8 @@
+D:\Work\If Statements\triple number\triple number\bin\Debug\triple number.exe.config
+D:\Work\If Statements\triple number\triple number\bin\Debug\triple number.exe
+D:\Work\If Statements\triple number\triple number\bin\Debug\triple number.pdb
+D:\Work\If Statements\triple number\triple number\obj\Debug\triple number.csproj.AssemblyReference.cache
+D:\Work\If Statements\triple number\triple number\obj\Debug\triple number.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\triple number\triple number\obj\Debug\triple number.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\triple number\triple number\obj\Debug\triple number.exe
+D:\Work\If Statements\triple number\triple number\obj\Debug\triple number.pdb

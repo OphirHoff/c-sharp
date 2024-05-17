@@ -1,0 +1,8 @@
+D:\Work\Bigger by 2\Bigger by 2\bin\Debug\Bigger by 2.exe.config
+D:\Work\Bigger by 2\Bigger by 2\bin\Debug\Bigger by 2.exe
+D:\Work\Bigger by 2\Bigger by 2\bin\Debug\Bigger by 2.pdb
+D:\Work\Bigger by 2\Bigger by 2\obj\Debug\Bigger by 2.csproj.AssemblyReference.cache
+D:\Work\Bigger by 2\Bigger by 2\obj\Debug\Bigger by 2.csproj.SuggestedBindingRedirects.cache
+D:\Work\Bigger by 2\Bigger by 2\obj\Debug\Bigger by 2.csproj.CoreCompileInputs.cache
+D:\Work\Bigger by 2\Bigger by 2\obj\Debug\Bigger by 2.exe
+D:\Work\Bigger by 2\Bigger by 2\obj\Debug\Bigger by 2.pdb

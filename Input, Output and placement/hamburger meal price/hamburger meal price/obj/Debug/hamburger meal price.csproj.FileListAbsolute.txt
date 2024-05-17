@@ -1,0 +1,8 @@
+D:\Work\hamburger meal price\hamburger meal price\bin\Debug\hamburger meal price.exe.config
+D:\Work\hamburger meal price\hamburger meal price\bin\Debug\hamburger meal price.exe
+D:\Work\hamburger meal price\hamburger meal price\bin\Debug\hamburger meal price.pdb
+D:\Work\hamburger meal price\hamburger meal price\obj\Debug\hamburger meal price.csproj.AssemblyReference.cache
+D:\Work\hamburger meal price\hamburger meal price\obj\Debug\hamburger meal price.csproj.SuggestedBindingRedirects.cache
+D:\Work\hamburger meal price\hamburger meal price\obj\Debug\hamburger meal price.csproj.CoreCompileInputs.cache
+D:\Work\hamburger meal price\hamburger meal price\obj\Debug\hamburger meal price.exe
+D:\Work\hamburger meal price\hamburger meal price\obj\Debug\hamburger meal price.pdb

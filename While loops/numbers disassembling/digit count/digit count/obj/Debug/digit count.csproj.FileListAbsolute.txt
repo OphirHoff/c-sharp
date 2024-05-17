@@ -1,0 +1,8 @@
+D:\Work\While loops\numbers disassembling\digit count\digit count\bin\Debug\digit count.exe.config
+D:\Work\While loops\numbers disassembling\digit count\digit count\bin\Debug\digit count.exe
+D:\Work\While loops\numbers disassembling\digit count\digit count\bin\Debug\digit count.pdb
+D:\Work\While loops\numbers disassembling\digit count\digit count\obj\Debug\digit count.csproj.AssemblyReference.cache
+D:\Work\While loops\numbers disassembling\digit count\digit count\obj\Debug\digit count.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\numbers disassembling\digit count\digit count\obj\Debug\digit count.csproj.CoreCompileInputs.cache
+D:\Work\While loops\numbers disassembling\digit count\digit count\obj\Debug\digit count.exe
+D:\Work\While loops\numbers disassembling\digit count\digit count\obj\Debug\digit count.pdb

@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\Dividers\Dividers\bin\Debug\Dividers.exe.config
+D:\Work\Methods\דף עבודה\Dividers\Dividers\bin\Debug\Dividers.exe
+D:\Work\Methods\דף עבודה\Dividers\Dividers\bin\Debug\Dividers.pdb
+D:\Work\Methods\דף עבודה\Dividers\Dividers\obj\Debug\Dividers.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\Dividers\Dividers\obj\Debug\Dividers.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\Dividers\Dividers\obj\Debug\Dividers.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\Dividers\Dividers\obj\Debug\Dividers.exe
+D:\Work\Methods\דף עבודה\Dividers\Dividers\obj\Debug\Dividers.pdb

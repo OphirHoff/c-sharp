@@ -1,0 +1,8 @@
+D:\Work\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+D:\Work\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+D:\Work\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+D:\Work\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.AssemblyReference.cache
+D:\Work\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.SuggestedBindingRedirects.cache
+D:\Work\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.CoreCompileInputs.cache
+D:\Work\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+D:\Work\Multiplication\Multiplication\obj\Debug\Multiplication.pdb

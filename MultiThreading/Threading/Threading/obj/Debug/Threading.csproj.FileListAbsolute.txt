@@ -1,0 +1,8 @@
+D:\C#\MultiThreading\Threading\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+D:\C#\MultiThreading\Threading\Threading\obj\Debug\Threading.csproj.SuggestedBindingRedirects.cache
+D:\C#\MultiThreading\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+D:\C#\MultiThreading\Threading\Threading\bin\Debug\Threading.exe.config
+D:\C#\MultiThreading\Threading\Threading\bin\Debug\Threading.exe
+D:\C#\MultiThreading\Threading\Threading\bin\Debug\Threading.pdb
+D:\C#\MultiThreading\Threading\Threading\obj\Debug\Threading.exe
+D:\C#\MultiThreading\Threading\Threading\obj\Debug\Threading.pdb

@@ -1,0 +1,8 @@
+D:\C#\Classes\Point\Point\obj\Debug\Point.csproj.AssemblyReference.cache
+D:\C#\Classes\Point\Point\obj\Debug\Point.csproj.SuggestedBindingRedirects.cache
+D:\C#\Classes\Point\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+D:\C#\Classes\Point\Point\bin\Debug\Point.exe.config
+D:\C#\Classes\Point\Point\bin\Debug\Point.exe
+D:\C#\Classes\Point\Point\bin\Debug\Point.pdb
+D:\C#\Classes\Point\Point\obj\Debug\Point.exe
+D:\C#\Classes\Point\Point\obj\Debug\Point.pdb

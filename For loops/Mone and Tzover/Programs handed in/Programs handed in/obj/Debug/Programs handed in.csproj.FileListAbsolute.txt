@@ -1,0 +1,8 @@
+D:\Work\For loops\Mone and Tzover\Programs handed in\Programs handed in\bin\Debug\Programs handed in.exe.config
+D:\Work\For loops\Mone and Tzover\Programs handed in\Programs handed in\bin\Debug\Programs handed in.exe
+D:\Work\For loops\Mone and Tzover\Programs handed in\Programs handed in\bin\Debug\Programs handed in.pdb
+D:\Work\For loops\Mone and Tzover\Programs handed in\Programs handed in\obj\Debug\Programs handed in.csproj.AssemblyReference.cache
+D:\Work\For loops\Mone and Tzover\Programs handed in\Programs handed in\obj\Debug\Programs handed in.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Mone and Tzover\Programs handed in\Programs handed in\obj\Debug\Programs handed in.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Mone and Tzover\Programs handed in\Programs handed in\obj\Debug\Programs handed in.exe
+D:\Work\For loops\Mone and Tzover\Programs handed in\Programs handed in\obj\Debug\Programs handed in.pdb

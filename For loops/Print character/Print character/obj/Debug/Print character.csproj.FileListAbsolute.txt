@@ -1,0 +1,8 @@
+D:\Work\For loops\Print character\Print character\obj\Debug\Print character.csproj.AssemblyReference.cache
+D:\Work\For loops\Print character\Print character\obj\Debug\Print character.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Print character\Print character\obj\Debug\Print character.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Print character\Print character\bin\Debug\Print character.exe.config
+D:\Work\For loops\Print character\Print character\bin\Debug\Print character.exe
+D:\Work\For loops\Print character\Print character\bin\Debug\Print character.pdb
+D:\Work\For loops\Print character\Print character\obj\Debug\Print character.exe
+D:\Work\For loops\Print character\Print character\obj\Debug\Print character.pdb

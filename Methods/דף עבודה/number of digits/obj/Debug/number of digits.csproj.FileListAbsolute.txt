@@ -1,0 +1,7 @@
+E:\Work\Methods\דף עבודה\number of digits\bin\Debug\number of digits.exe.config
+E:\Work\Methods\דף עבודה\number of digits\bin\Debug\number of digits.exe
+E:\Work\Methods\דף עבודה\number of digits\bin\Debug\number of digits.pdb
+E:\Work\Methods\דף עבודה\number of digits\obj\Debug\number of digits.csprojAssemblyReference.cache
+E:\Work\Methods\דף עבודה\number of digits\obj\Debug\number of digits.csproj.CoreCompileInputs.cache
+E:\Work\Methods\דף עבודה\number of digits\obj\Debug\number of digits.exe
+E:\Work\Methods\דף עבודה\number of digits\obj\Debug\number of digits.pdb

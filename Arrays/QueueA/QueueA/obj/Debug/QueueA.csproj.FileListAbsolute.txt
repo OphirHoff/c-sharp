@@ -1,0 +1,15 @@
+E:\C#\Arrays\QueueA\QueueA\bin\Debug\QueueA.exe.config
+E:\C#\Arrays\QueueA\QueueA\bin\Debug\QueueA.exe
+E:\C#\Arrays\QueueA\QueueA\bin\Debug\QueueA.pdb
+E:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.csprojAssemblyReference.cache
+E:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.csproj.CoreCompileInputs.cache
+E:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.exe
+E:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.pdb
+D:\C#\Arrays\QueueA\QueueA\bin\Debug\QueueA.exe.config
+D:\C#\Arrays\QueueA\QueueA\bin\Debug\QueueA.exe
+D:\C#\Arrays\QueueA\QueueA\bin\Debug\QueueA.pdb
+D:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.csproj.AssemblyReference.cache
+D:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.csproj.SuggestedBindingRedirects.cache
+D:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.csproj.CoreCompileInputs.cache
+D:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.exe
+D:\C#\Arrays\QueueA\QueueA\obj\Debug\QueueA.pdb

@@ -1,0 +1,7 @@
+E:\Work\Boom Trach\obj\Debug\Boom Trach.csprojAssemblyReference.cache
+E:\Work\Boom Trach\obj\Debug\Boom Trach.csproj.CoreCompileInputs.cache
+E:\Work\Boom Trach\bin\Debug\Boom Trach.exe.config
+E:\Work\Boom Trach\bin\Debug\Boom Trach.exe
+E:\Work\Boom Trach\bin\Debug\Boom Trach.pdb
+E:\Work\Boom Trach\obj\Debug\Boom Trach.exe
+E:\Work\Boom Trach\obj\Debug\Boom Trach.pdb

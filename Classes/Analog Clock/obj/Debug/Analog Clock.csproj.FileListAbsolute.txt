@@ -1,0 +1,15 @@
+E:\C#\Classes\Analog Clock\bin\Debug\Analog Clock.exe.config
+E:\C#\Classes\Analog Clock\bin\Debug\Analog Clock.exe
+E:\C#\Classes\Analog Clock\bin\Debug\Analog Clock.pdb
+E:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.csprojAssemblyReference.cache
+E:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.csproj.CoreCompileInputs.cache
+E:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.exe
+E:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.pdb
+D:\C#\Classes\Analog Clock\bin\Debug\Analog Clock.exe.config
+D:\C#\Classes\Analog Clock\bin\Debug\Analog Clock.exe
+D:\C#\Classes\Analog Clock\bin\Debug\Analog Clock.pdb
+D:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.csproj.AssemblyReference.cache
+D:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.csproj.SuggestedBindingRedirects.cache
+D:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.csproj.CoreCompileInputs.cache
+D:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.exe
+D:\C#\Classes\Analog Clock\obj\Debug\Analog Clock.pdb

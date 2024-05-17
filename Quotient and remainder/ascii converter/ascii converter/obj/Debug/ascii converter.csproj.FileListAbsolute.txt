@@ -1,0 +1,16 @@
+D:\Work\ascii converter\ascii converter\bin\Debug\ascii converter.exe.config
+D:\Work\ascii converter\ascii converter\bin\Debug\ascii converter.exe
+D:\Work\ascii converter\ascii converter\bin\Debug\ascii converter.pdb
+D:\Work\ascii converter\ascii converter\obj\Debug\ascii converter.csproj.AssemblyReference.cache
+D:\Work\ascii converter\ascii converter\obj\Debug\ascii converter.csproj.SuggestedBindingRedirects.cache
+D:\Work\ascii converter\ascii converter\obj\Debug\ascii converter.csproj.CoreCompileInputs.cache
+D:\Work\ascii converter\ascii converter\obj\Debug\ascii converter.exe
+D:\Work\ascii converter\ascii converter\obj\Debug\ascii converter.pdb
+D:\Work\Quotient and remainder\ascii converter\ascii converter\bin\Debug\ascii converter.exe.config
+D:\Work\Quotient and remainder\ascii converter\ascii converter\bin\Debug\ascii converter.exe
+D:\Work\Quotient and remainder\ascii converter\ascii converter\bin\Debug\ascii converter.pdb
+D:\Work\Quotient and remainder\ascii converter\ascii converter\obj\Debug\ascii converter.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\ascii converter\ascii converter\obj\Debug\ascii converter.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\ascii converter\ascii converter\obj\Debug\ascii converter.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\ascii converter\ascii converter\obj\Debug\ascii converter.exe
+D:\Work\Quotient and remainder\ascii converter\ascii converter\obj\Debug\ascii converter.pdb

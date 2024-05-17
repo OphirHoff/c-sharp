@@ -1,0 +1,7 @@
+E:\Work\For loops\Mone and Tzover\Activities after school\bin\Debug\Activities after school.exe.config
+E:\Work\For loops\Mone and Tzover\Activities after school\bin\Debug\Activities after school.exe
+E:\Work\For loops\Mone and Tzover\Activities after school\bin\Debug\Activities after school.pdb
+E:\Work\For loops\Mone and Tzover\Activities after school\obj\Debug\Activities after school.csprojAssemblyReference.cache
+E:\Work\For loops\Mone and Tzover\Activities after school\obj\Debug\Activities after school.csproj.CoreCompileInputs.cache
+E:\Work\For loops\Mone and Tzover\Activities after school\obj\Debug\Activities after school.exe
+E:\Work\For loops\Mone and Tzover\Activities after school\obj\Debug\Activities after school.pdb

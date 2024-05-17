@@ -1,0 +1,8 @@
+D:\Work\Dani's money and savings\Dani's money and savings\bin\Debug\Dani's money and savings.exe.config
+D:\Work\Dani's money and savings\Dani's money and savings\bin\Debug\Dani's money and savings.exe
+D:\Work\Dani's money and savings\Dani's money and savings\bin\Debug\Dani's money and savings.pdb
+D:\Work\Dani's money and savings\Dani's money and savings\obj\Debug\Dani's money and savings.csproj.AssemblyReference.cache
+D:\Work\Dani's money and savings\Dani's money and savings\obj\Debug\Dani's money and savings.csproj.SuggestedBindingRedirects.cache
+D:\Work\Dani's money and savings\Dani's money and savings\obj\Debug\Dani's money and savings.csproj.CoreCompileInputs.cache
+D:\Work\Dani's money and savings\Dani's money and savings\obj\Debug\Dani's money and savings.exe
+D:\Work\Dani's money and savings\Dani's money and savings\obj\Debug\Dani's money and savings.pdb

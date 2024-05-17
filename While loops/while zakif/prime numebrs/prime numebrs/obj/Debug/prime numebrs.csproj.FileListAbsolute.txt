@@ -1,0 +1,8 @@
+D:\Work\While loops\while zakif\prime numebrs\prime numebrs\obj\Debug\prime numebrs.csproj.AssemblyReference.cache
+D:\Work\While loops\while zakif\prime numebrs\prime numebrs\obj\Debug\prime numebrs.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\while zakif\prime numebrs\prime numebrs\obj\Debug\prime numebrs.csproj.CoreCompileInputs.cache
+D:\Work\While loops\while zakif\prime numebrs\prime numebrs\bin\Debug\prime numebrs.exe.config
+D:\Work\While loops\while zakif\prime numebrs\prime numebrs\bin\Debug\prime numebrs.exe
+D:\Work\While loops\while zakif\prime numebrs\prime numebrs\bin\Debug\prime numebrs.pdb
+D:\Work\While loops\while zakif\prime numebrs\prime numebrs\obj\Debug\prime numebrs.exe
+D:\Work\While loops\while zakif\prime numebrs\prime numebrs\obj\Debug\prime numebrs.pdb

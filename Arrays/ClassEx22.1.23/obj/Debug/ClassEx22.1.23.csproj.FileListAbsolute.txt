@@ -1,0 +1,15 @@
+E:\C#\Arrays\ClassEx22.1.23\bin\Debug\ClassEx22.1.23.exe.config
+E:\C#\Arrays\ClassEx22.1.23\bin\Debug\ClassEx22.1.23.exe
+E:\C#\Arrays\ClassEx22.1.23\bin\Debug\ClassEx22.1.23.pdb
+E:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.csprojAssemblyReference.cache
+E:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.csproj.CoreCompileInputs.cache
+E:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.exe
+E:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.pdb
+D:\C#\Arrays\ClassEx22.1.23\bin\Debug\ClassEx22.1.23.exe.config
+D:\C#\Arrays\ClassEx22.1.23\bin\Debug\ClassEx22.1.23.exe
+D:\C#\Arrays\ClassEx22.1.23\bin\Debug\ClassEx22.1.23.pdb
+D:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.csproj.AssemblyReference.cache
+D:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.csproj.SuggestedBindingRedirects.cache
+D:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.csproj.CoreCompileInputs.cache
+D:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.exe
+D:\C#\Arrays\ClassEx22.1.23\obj\Debug\ClassEx22.1.23.pdb

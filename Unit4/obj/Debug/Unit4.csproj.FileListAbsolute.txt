@@ -1,0 +1,17 @@
+E:\C#\Unit4\bin\Debug\Unit4.exe.config
+E:\C#\Unit4\bin\Debug\Unit4.exe
+E:\C#\Unit4\bin\Debug\Unit4.pdb
+E:\C#\Unit4\obj\Debug\Unit4.csproj.CoreCompileInputs.cache
+E:\C#\Unit4\obj\Debug\Unit4.exe
+E:\C#\Unit4\obj\Debug\Unit4.pdb
+D:\C#\Unit4\obj\Debug\Unit4.csproj.AssemblyReference.cache
+D:\C#\Unit4\obj\Debug\Unit4.csproj.SuggestedBindingRedirects.cache
+D:\C#\Unit4\obj\Debug\Unit4.csproj.CoreCompileInputs.cache
+D:\C#\Unit4\obj\Debug\Unit4.exe
+D:\C#\Unit4\obj\Debug\Unit4.pdb
+D:\C#\Unit4\bin\Debug\Unit4.exe.config
+D:\C#\Unit4\bin\Debug\Unit4.exe
+D:\C#\Unit4\bin\Debug\Unit4.pdb
+E:\C#\Unit4\obj\Debug\Unit4.csproj.AssemblyReference.cache
+E:\C#\Unit4\obj\Debug\Unit4.csproj.CopyComplete
+D:\C#\Unit4\obj\Debug\Unit4.csproj.CopyComplete

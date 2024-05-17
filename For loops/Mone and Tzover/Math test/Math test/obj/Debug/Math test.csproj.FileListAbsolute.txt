@@ -1,0 +1,8 @@
+D:\Work\For loops\Mone and Tzover\Math test\Math test\bin\Debug\Math test.exe.config
+D:\Work\For loops\Mone and Tzover\Math test\Math test\bin\Debug\Math test.exe
+D:\Work\For loops\Mone and Tzover\Math test\Math test\bin\Debug\Math test.pdb
+D:\Work\For loops\Mone and Tzover\Math test\Math test\obj\Debug\Math test.csproj.AssemblyReference.cache
+D:\Work\For loops\Mone and Tzover\Math test\Math test\obj\Debug\Math test.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Mone and Tzover\Math test\Math test\obj\Debug\Math test.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Mone and Tzover\Math test\Math test\obj\Debug\Math test.exe
+D:\Work\For loops\Mone and Tzover\Math test\Math test\obj\Debug\Math test.pdb

@@ -1,0 +1,8 @@
+D:\Work\While loops\while zakif\three digit numbers\three digit numbers\bin\Debug\three digit numbers.exe.config
+D:\Work\While loops\while zakif\three digit numbers\three digit numbers\bin\Debug\three digit numbers.exe
+D:\Work\While loops\while zakif\three digit numbers\three digit numbers\bin\Debug\three digit numbers.pdb
+D:\Work\While loops\while zakif\three digit numbers\three digit numbers\obj\Debug\three digit numbers.csproj.AssemblyReference.cache
+D:\Work\While loops\while zakif\three digit numbers\three digit numbers\obj\Debug\three digit numbers.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\while zakif\three digit numbers\three digit numbers\obj\Debug\three digit numbers.csproj.CoreCompileInputs.cache
+D:\Work\While loops\while zakif\three digit numbers\three digit numbers\obj\Debug\three digit numbers.exe
+D:\Work\While loops\while zakif\three digit numbers\three digit numbers\obj\Debug\three digit numbers.pdb

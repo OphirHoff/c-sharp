@@ -1,0 +1,8 @@
+D:\C#\Classes\Choclate\Choclate\obj\Debug\Choclate.csproj.AssemblyReference.cache
+D:\C#\Classes\Choclate\Choclate\obj\Debug\Choclate.csproj.SuggestedBindingRedirects.cache
+D:\C#\Classes\Choclate\Choclate\obj\Debug\Choclate.csproj.CoreCompileInputs.cache
+D:\C#\Classes\Choclate\Choclate\bin\Debug\Choclate.exe.config
+D:\C#\Classes\Choclate\Choclate\bin\Debug\Choclate.exe
+D:\C#\Classes\Choclate\Choclate\bin\Debug\Choclate.pdb
+D:\C#\Classes\Choclate\Choclate\obj\Debug\Choclate.exe
+D:\C#\Classes\Choclate\Choclate\obj\Debug\Choclate.pdb

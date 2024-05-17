@@ -1,0 +1,16 @@
+D:\Work\sum of digits\sum of digits\bin\Debug\sum of digits.exe.config
+D:\Work\sum of digits\sum of digits\bin\Debug\sum of digits.exe
+D:\Work\sum of digits\sum of digits\bin\Debug\sum of digits.pdb
+D:\Work\sum of digits\sum of digits\obj\Debug\sum of digits.csproj.AssemblyReference.cache
+D:\Work\sum of digits\sum of digits\obj\Debug\sum of digits.csproj.SuggestedBindingRedirects.cache
+D:\Work\sum of digits\sum of digits\obj\Debug\sum of digits.csproj.CoreCompileInputs.cache
+D:\Work\sum of digits\sum of digits\obj\Debug\sum of digits.exe
+D:\Work\sum of digits\sum of digits\obj\Debug\sum of digits.pdb
+D:\Work\Quotient and remainder\sum of digits\sum of digits\bin\Debug\sum of digits.exe.config
+D:\Work\Quotient and remainder\sum of digits\sum of digits\bin\Debug\sum of digits.exe
+D:\Work\Quotient and remainder\sum of digits\sum of digits\bin\Debug\sum of digits.pdb
+D:\Work\Quotient and remainder\sum of digits\sum of digits\obj\Debug\sum of digits.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\sum of digits\sum of digits\obj\Debug\sum of digits.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\sum of digits\sum of digits\obj\Debug\sum of digits.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\sum of digits\sum of digits\obj\Debug\sum of digits.exe
+D:\Work\Quotient and remainder\sum of digits\sum of digits\obj\Debug\sum of digits.pdb

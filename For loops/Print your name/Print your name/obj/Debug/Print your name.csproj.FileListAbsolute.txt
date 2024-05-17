@@ -1,0 +1,8 @@
+D:\Work\For loops\Print your name\Print your name\bin\Debug\Print your name.exe.config
+D:\Work\For loops\Print your name\Print your name\bin\Debug\Print your name.exe
+D:\Work\For loops\Print your name\Print your name\bin\Debug\Print your name.pdb
+D:\Work\For loops\Print your name\Print your name\obj\Debug\Print your name.csproj.AssemblyReference.cache
+D:\Work\For loops\Print your name\Print your name\obj\Debug\Print your name.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Print your name\Print your name\obj\Debug\Print your name.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Print your name\Print your name\obj\Debug\Print your name.exe
+D:\Work\For loops\Print your name\Print your name\obj\Debug\Print your name.pdb

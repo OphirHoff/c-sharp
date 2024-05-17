@@ -1,0 +1,8 @@
+D:\C#\model of computation\Recursion review\Recursion review\bin\Debug\Recursion review.exe.config
+D:\C#\model of computation\Recursion review\Recursion review\bin\Debug\Recursion review.exe
+D:\C#\model of computation\Recursion review\Recursion review\bin\Debug\Recursion review.pdb
+D:\C#\model of computation\Recursion review\Recursion review\obj\Debug\Recursion review.csproj.AssemblyReference.cache
+D:\C#\model of computation\Recursion review\Recursion review\obj\Debug\Recursion review.csproj.SuggestedBindingRedirects.cache
+D:\C#\model of computation\Recursion review\Recursion review\obj\Debug\Recursion review.csproj.CoreCompileInputs.cache
+D:\C#\model of computation\Recursion review\Recursion review\obj\Debug\Recursion review.exe
+D:\C#\model of computation\Recursion review\Recursion review\obj\Debug\Recursion review.pdb

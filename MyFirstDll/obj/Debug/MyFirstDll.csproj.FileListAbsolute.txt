@@ -1,0 +1,6 @@
+E:\C#\MyFirstDll\bin\Debug\MyFirstDll.dll
+E:\C#\MyFirstDll\bin\Debug\MyFirstDll.pdb
+E:\C#\MyFirstDll\obj\Debug\MyFirstDll.csprojAssemblyReference.cache
+E:\C#\MyFirstDll\obj\Debug\MyFirstDll.csproj.CoreCompileInputs.cache
+E:\C#\MyFirstDll\obj\Debug\MyFirstDll.dll
+E:\C#\MyFirstDll\obj\Debug\MyFirstDll.pdb

@@ -1,0 +1,8 @@
+D:\Work\dollars to shekels\dollars to shekels\bin\Debug\dollars to shekels.exe.config
+D:\Work\dollars to shekels\dollars to shekels\bin\Debug\dollars to shekels.exe
+D:\Work\dollars to shekels\dollars to shekels\bin\Debug\dollars to shekels.pdb
+D:\Work\dollars to shekels\dollars to shekels\obj\Debug\dollars to shekels.csproj.AssemblyReference.cache
+D:\Work\dollars to shekels\dollars to shekels\obj\Debug\dollars to shekels.csproj.SuggestedBindingRedirects.cache
+D:\Work\dollars to shekels\dollars to shekels\obj\Debug\dollars to shekels.csproj.CoreCompileInputs.cache
+D:\Work\dollars to shekels\dollars to shekels\obj\Debug\dollars to shekels.exe
+D:\Work\dollars to shekels\dollars to shekels\obj\Debug\dollars to shekels.pdb

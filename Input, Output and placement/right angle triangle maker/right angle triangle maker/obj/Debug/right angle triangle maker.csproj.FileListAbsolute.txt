@@ -1,0 +1,8 @@
+D:\Work\right angle triangle maker\right angle triangle maker\bin\Debug\right angle triangle maker.exe.config
+D:\Work\right angle triangle maker\right angle triangle maker\bin\Debug\right angle triangle maker.exe
+D:\Work\right angle triangle maker\right angle triangle maker\bin\Debug\right angle triangle maker.pdb
+D:\Work\right angle triangle maker\right angle triangle maker\obj\Debug\right angle triangle maker.csproj.AssemblyReference.cache
+D:\Work\right angle triangle maker\right angle triangle maker\obj\Debug\right angle triangle maker.csproj.SuggestedBindingRedirects.cache
+D:\Work\right angle triangle maker\right angle triangle maker\obj\Debug\right angle triangle maker.csproj.CoreCompileInputs.cache
+D:\Work\right angle triangle maker\right angle triangle maker\obj\Debug\right angle triangle maker.exe
+D:\Work\right angle triangle maker\right angle triangle maker\obj\Debug\right angle triangle maker.pdb

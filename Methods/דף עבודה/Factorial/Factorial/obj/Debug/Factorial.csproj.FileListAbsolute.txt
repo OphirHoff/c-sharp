@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\Factorial\Factorial\bin\Debug\Factorial.exe.config
+D:\Work\Methods\דף עבודה\Factorial\Factorial\bin\Debug\Factorial.exe
+D:\Work\Methods\דף עבודה\Factorial\Factorial\bin\Debug\Factorial.pdb
+D:\Work\Methods\דף עבודה\Factorial\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\Factorial\Factorial\obj\Debug\Factorial.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\Factorial\Factorial\obj\Debug\Factorial.exe
+D:\Work\Methods\דף עבודה\Factorial\Factorial\obj\Debug\Factorial.pdb

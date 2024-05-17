@@ -1,0 +1,8 @@
+D:\Work\For loops\Mone and Tzover\movies questionnaire\movies questionnaire\bin\Debug\movies questionnaire.exe.config
+D:\Work\For loops\Mone and Tzover\movies questionnaire\movies questionnaire\bin\Debug\movies questionnaire.exe
+D:\Work\For loops\Mone and Tzover\movies questionnaire\movies questionnaire\bin\Debug\movies questionnaire.pdb
+D:\Work\For loops\Mone and Tzover\movies questionnaire\movies questionnaire\obj\Debug\movies questionnaire.csproj.AssemblyReference.cache
+D:\Work\For loops\Mone and Tzover\movies questionnaire\movies questionnaire\obj\Debug\movies questionnaire.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Mone and Tzover\movies questionnaire\movies questionnaire\obj\Debug\movies questionnaire.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Mone and Tzover\movies questionnaire\movies questionnaire\obj\Debug\movies questionnaire.exe
+D:\Work\For loops\Mone and Tzover\movies questionnaire\movies questionnaire\obj\Debug\movies questionnaire.pdb

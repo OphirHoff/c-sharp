@@ -1,0 +1,7 @@
+E:\Work\Methods\How many even digits\bin\Debug\How many even digits.exe.config
+E:\Work\Methods\How many even digits\bin\Debug\How many even digits.exe
+E:\Work\Methods\How many even digits\bin\Debug\How many even digits.pdb
+E:\Work\Methods\How many even digits\obj\Debug\How many even digits.csprojAssemblyReference.cache
+E:\Work\Methods\How many even digits\obj\Debug\How many even digits.csproj.CoreCompileInputs.cache
+E:\Work\Methods\How many even digits\obj\Debug\How many even digits.exe
+E:\Work\Methods\How many even digits\obj\Debug\How many even digits.pdb

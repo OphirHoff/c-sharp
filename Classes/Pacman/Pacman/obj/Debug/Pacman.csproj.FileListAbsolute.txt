@@ -1,0 +1,8 @@
+D:\C#\Classes\Pacman\Pacman\bin\Debug\Pacman.exe.config
+D:\C#\Classes\Pacman\Pacman\bin\Debug\Pacman.exe
+D:\C#\Classes\Pacman\Pacman\bin\Debug\Pacman.pdb
+D:\C#\Classes\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+D:\C#\Classes\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+D:\C#\Classes\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+D:\C#\Classes\Pacman\Pacman\obj\Debug\Pacman.exe
+D:\C#\Classes\Pacman\Pacman\obj\Debug\Pacman.pdb

@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+D:\Work\Methods\דף עבודה\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+D:\Work\Methods\דף עבודה\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\Work\Methods\דף עבודה\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+D:\Work\Methods\דף עבודה\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

@@ -1,0 +1,16 @@
+D:\Work\For loops\FOR nesting\ETGAR 10\ETGAR 10\bin\Debug\ETGAR 10.exe.config
+D:\Work\For loops\FOR nesting\ETGAR 10\ETGAR 10\bin\Debug\ETGAR 10.exe
+D:\Work\For loops\FOR nesting\ETGAR 10\ETGAR 10\bin\Debug\ETGAR 10.pdb
+D:\Work\For loops\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.csproj.AssemblyReference.cache
+D:\Work\For loops\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.csproj.CoreCompileInputs.cache
+D:\Work\For loops\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.exe
+D:\Work\For loops\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.pdb
+D:\C#\For loops\Perfect and prime\FOR nesting\ETGAR 10\ETGAR 10\bin\Debug\ETGAR 10.exe.config
+D:\C#\For loops\Perfect and prime\FOR nesting\ETGAR 10\ETGAR 10\bin\Debug\ETGAR 10.exe
+D:\C#\For loops\Perfect and prime\FOR nesting\ETGAR 10\ETGAR 10\bin\Debug\ETGAR 10.pdb
+D:\C#\For loops\Perfect and prime\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.csproj.AssemblyReference.cache
+D:\C#\For loops\Perfect and prime\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.csproj.SuggestedBindingRedirects.cache
+D:\C#\For loops\Perfect and prime\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.csproj.CoreCompileInputs.cache
+D:\C#\For loops\Perfect and prime\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.exe
+D:\C#\For loops\Perfect and prime\FOR nesting\ETGAR 10\ETGAR 10\obj\Debug\ETGAR 10.pdb

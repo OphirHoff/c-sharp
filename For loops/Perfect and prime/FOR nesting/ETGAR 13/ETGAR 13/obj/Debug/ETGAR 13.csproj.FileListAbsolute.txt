@@ -1,0 +1,8 @@
+D:\Work\For loops\FOR nesting\ETGAR 13\ETGAR 13\bin\Debug\ETGAR 13.exe.config
+D:\Work\For loops\FOR nesting\ETGAR 13\ETGAR 13\bin\Debug\ETGAR 13.exe
+D:\Work\For loops\FOR nesting\ETGAR 13\ETGAR 13\bin\Debug\ETGAR 13.pdb
+D:\Work\For loops\FOR nesting\ETGAR 13\ETGAR 13\obj\Debug\ETGAR 13.csproj.AssemblyReference.cache
+D:\Work\For loops\FOR nesting\ETGAR 13\ETGAR 13\obj\Debug\ETGAR 13.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\FOR nesting\ETGAR 13\ETGAR 13\obj\Debug\ETGAR 13.csproj.CoreCompileInputs.cache
+D:\Work\For loops\FOR nesting\ETGAR 13\ETGAR 13\obj\Debug\ETGAR 13.exe
+D:\Work\For loops\FOR nesting\ETGAR 13\ETGAR 13\obj\Debug\ETGAR 13.pdb

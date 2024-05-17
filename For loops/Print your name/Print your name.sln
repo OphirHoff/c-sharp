@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print your name", "Print your name\Print your name.csproj", "{055A31FF-A852-47AB-A3CC-674F8EDBCDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055A31FF-A852-47AB-A3CC-674F8EDBCDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055A31FF-A852-47AB-A3CC-674F8EDBCDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055A31FF-A852-47AB-A3CC-674F8EDBCDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055A31FF-A852-47AB-A3CC-674F8EDBCDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B2B955-EC32-4932-8B73-920DE006B47B}
+	EndGlobalSection
+EndGlobal

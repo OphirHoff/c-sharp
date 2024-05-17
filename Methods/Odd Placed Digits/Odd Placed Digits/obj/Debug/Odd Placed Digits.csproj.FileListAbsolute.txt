@@ -1,0 +1,8 @@
+D:\C#\Methods\Odd Placed Digits\Odd Placed Digits\bin\Debug\Odd Placed Digits.exe.config
+D:\C#\Methods\Odd Placed Digits\Odd Placed Digits\bin\Debug\Odd Placed Digits.exe
+D:\C#\Methods\Odd Placed Digits\Odd Placed Digits\bin\Debug\Odd Placed Digits.pdb
+D:\C#\Methods\Odd Placed Digits\Odd Placed Digits\obj\Debug\Odd Placed Digits.csproj.AssemblyReference.cache
+D:\C#\Methods\Odd Placed Digits\Odd Placed Digits\obj\Debug\Odd Placed Digits.csproj.SuggestedBindingRedirects.cache
+D:\C#\Methods\Odd Placed Digits\Odd Placed Digits\obj\Debug\Odd Placed Digits.csproj.CoreCompileInputs.cache
+D:\C#\Methods\Odd Placed Digits\Odd Placed Digits\obj\Debug\Odd Placed Digits.exe
+D:\C#\Methods\Odd Placed Digits\Odd Placed Digits\obj\Debug\Odd Placed Digits.pdb

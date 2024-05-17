@@ -1,0 +1,8 @@
+D:\Work\For loops\Grades Sorting\Grades Sorting\obj\Debug\Grades Sorting.csproj.AssemblyReference.cache
+D:\Work\For loops\Grades Sorting\Grades Sorting\obj\Debug\Grades Sorting.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Grades Sorting\Grades Sorting\obj\Debug\Grades Sorting.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Grades Sorting\Grades Sorting\bin\Debug\Grades Sorting.exe.config
+D:\Work\For loops\Grades Sorting\Grades Sorting\bin\Debug\Grades Sorting.exe
+D:\Work\For loops\Grades Sorting\Grades Sorting\bin\Debug\Grades Sorting.pdb
+D:\Work\For loops\Grades Sorting\Grades Sorting\obj\Debug\Grades Sorting.exe
+D:\Work\For loops\Grades Sorting\Grades Sorting\obj\Debug\Grades Sorting.pdb

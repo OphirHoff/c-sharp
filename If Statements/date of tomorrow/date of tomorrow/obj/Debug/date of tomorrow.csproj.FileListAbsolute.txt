@@ -1,0 +1,8 @@
+D:\Work\If Statements\date of tomorrow\date of tomorrow\bin\Debug\date of tomorrow.exe.config
+D:\Work\If Statements\date of tomorrow\date of tomorrow\bin\Debug\date of tomorrow.exe
+D:\Work\If Statements\date of tomorrow\date of tomorrow\bin\Debug\date of tomorrow.pdb
+D:\Work\If Statements\date of tomorrow\date of tomorrow\obj\Debug\date of tomorrow.csproj.AssemblyReference.cache
+D:\Work\If Statements\date of tomorrow\date of tomorrow\obj\Debug\date of tomorrow.csproj.SuggestedBindingRedirects.cache
+D:\Work\If Statements\date of tomorrow\date of tomorrow\obj\Debug\date of tomorrow.csproj.CoreCompileInputs.cache
+D:\Work\If Statements\date of tomorrow\date of tomorrow\obj\Debug\date of tomorrow.exe
+D:\Work\If Statements\date of tomorrow\date of tomorrow\obj\Debug\date of tomorrow.pdb

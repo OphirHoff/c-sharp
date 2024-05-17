@@ -1,0 +1,15 @@
+E:\Work\Valuables - shirts exercise\bin\Debug\Valuables - shirts exercise.exe.config
+E:\Work\Valuables - shirts exercise\bin\Debug\Valuables - shirts exercise.exe
+E:\Work\Valuables - shirts exercise\bin\Debug\Valuables - shirts exercise.pdb
+E:\Work\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.csprojAssemblyReference.cache
+E:\Work\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.csproj.CoreCompileInputs.cache
+E:\Work\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.exe
+E:\Work\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.pdb
+D:\C#\Variables\Valuables - shirts exercise\bin\Debug\Valuables - shirts exercise.exe.config
+D:\C#\Variables\Valuables - shirts exercise\bin\Debug\Valuables - shirts exercise.exe
+D:\C#\Variables\Valuables - shirts exercise\bin\Debug\Valuables - shirts exercise.pdb
+D:\C#\Variables\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.csproj.AssemblyReference.cache
+D:\C#\Variables\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.csproj.SuggestedBindingRedirects.cache
+D:\C#\Variables\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.csproj.CoreCompileInputs.cache
+D:\C#\Variables\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.exe
+D:\C#\Variables\Valuables - shirts exercise\obj\Debug\Valuables - shirts exercise.pdb

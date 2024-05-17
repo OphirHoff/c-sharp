@@ -1,0 +1,8 @@
+D:\Work\area and perimeter of rectangle\area and perimeter of rectangle\bin\Debug\area and perimeter of rectangle.exe.config
+D:\Work\area and perimeter of rectangle\area and perimeter of rectangle\bin\Debug\area and perimeter of rectangle.exe
+D:\Work\area and perimeter of rectangle\area and perimeter of rectangle\bin\Debug\area and perimeter of rectangle.pdb
+D:\Work\area and perimeter of rectangle\area and perimeter of rectangle\obj\Debug\area and perimeter of rectangle.csproj.AssemblyReference.cache
+D:\Work\area and perimeter of rectangle\area and perimeter of rectangle\obj\Debug\area and perimeter of rectangle.csproj.SuggestedBindingRedirects.cache
+D:\Work\area and perimeter of rectangle\area and perimeter of rectangle\obj\Debug\area and perimeter of rectangle.csproj.CoreCompileInputs.cache
+D:\Work\area and perimeter of rectangle\area and perimeter of rectangle\obj\Debug\area and perimeter of rectangle.exe
+D:\Work\area and perimeter of rectangle\area and perimeter of rectangle\obj\Debug\area and perimeter of rectangle.pdb

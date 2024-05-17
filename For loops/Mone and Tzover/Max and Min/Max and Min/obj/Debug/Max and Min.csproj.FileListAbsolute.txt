@@ -1,0 +1,8 @@
+D:\Work\For loops\Mone and Tzover\Max and Min\Max and Min\bin\Debug\Max and Min.exe.config
+D:\Work\For loops\Mone and Tzover\Max and Min\Max and Min\bin\Debug\Max and Min.exe
+D:\Work\For loops\Mone and Tzover\Max and Min\Max and Min\bin\Debug\Max and Min.pdb
+D:\Work\For loops\Mone and Tzover\Max and Min\Max and Min\obj\Debug\Max and Min.csproj.AssemblyReference.cache
+D:\Work\For loops\Mone and Tzover\Max and Min\Max and Min\obj\Debug\Max and Min.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Mone and Tzover\Max and Min\Max and Min\obj\Debug\Max and Min.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Mone and Tzover\Max and Min\Max and Min\obj\Debug\Max and Min.exe
+D:\Work\For loops\Mone and Tzover\Max and Min\Max and Min\obj\Debug\Max and Min.pdb

@@ -1,0 +1,8 @@
+D:\Work\While loops\numbers disassembling\print digit\print digit\bin\Debug\print digit.exe.config
+D:\Work\While loops\numbers disassembling\print digit\print digit\bin\Debug\print digit.exe
+D:\Work\While loops\numbers disassembling\print digit\print digit\bin\Debug\print digit.pdb
+D:\Work\While loops\numbers disassembling\print digit\print digit\obj\Debug\print digit.csproj.AssemblyReference.cache
+D:\Work\While loops\numbers disassembling\print digit\print digit\obj\Debug\print digit.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\numbers disassembling\print digit\print digit\obj\Debug\print digit.csproj.CoreCompileInputs.cache
+D:\Work\While loops\numbers disassembling\print digit\print digit\obj\Debug\print digit.exe
+D:\Work\While loops\numbers disassembling\print digit\print digit\obj\Debug\print digit.pdb

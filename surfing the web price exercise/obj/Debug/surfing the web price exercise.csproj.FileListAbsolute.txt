@@ -1,0 +1,7 @@
+E:\Work\surfing the web price exercise\bin\Debug\surfing the web price exercise.exe.config
+E:\Work\surfing the web price exercise\bin\Debug\surfing the web price exercise.exe
+E:\Work\surfing the web price exercise\bin\Debug\surfing the web price exercise.pdb
+E:\Work\surfing the web price exercise\obj\Debug\surfing the web price exercise.csprojAssemblyReference.cache
+E:\Work\surfing the web price exercise\obj\Debug\surfing the web price exercise.csproj.CoreCompileInputs.cache
+E:\Work\surfing the web price exercise\obj\Debug\surfing the web price exercise.exe
+E:\Work\surfing the web price exercise\obj\Debug\surfing the web price exercise.pdb

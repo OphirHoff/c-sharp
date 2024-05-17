@@ -1,0 +1,8 @@
+D:\Work\For loops\print number squared\print number squared\bin\Debug\print number squared.exe.config
+D:\Work\For loops\print number squared\print number squared\bin\Debug\print number squared.exe
+D:\Work\For loops\print number squared\print number squared\bin\Debug\print number squared.pdb
+D:\Work\For loops\print number squared\print number squared\obj\Debug\print number squared.csproj.AssemblyReference.cache
+D:\Work\For loops\print number squared\print number squared\obj\Debug\print number squared.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\print number squared\print number squared\obj\Debug\print number squared.csproj.CoreCompileInputs.cache
+D:\Work\For loops\print number squared\print number squared\obj\Debug\print number squared.exe
+D:\Work\For loops\print number squared\print number squared\obj\Debug\print number squared.pdb

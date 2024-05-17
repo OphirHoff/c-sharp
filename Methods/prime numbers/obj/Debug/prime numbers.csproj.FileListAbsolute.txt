@@ -1,0 +1,6 @@
+E:\Work\Methods\prime numbers\bin\Debug\prime numbers.exe.config
+E:\Work\Methods\prime numbers\bin\Debug\prime numbers.exe
+E:\Work\Methods\prime numbers\bin\Debug\prime numbers.pdb
+E:\Work\Methods\prime numbers\obj\Debug\prime numbers.csproj.CoreCompileInputs.cache
+E:\Work\Methods\prime numbers\obj\Debug\prime numbers.exe
+E:\Work\Methods\prime numbers\obj\Debug\prime numbers.pdb

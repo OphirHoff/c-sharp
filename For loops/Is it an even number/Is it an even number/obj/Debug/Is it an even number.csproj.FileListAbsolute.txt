@@ -1,0 +1,8 @@
+D:\Work\For loops\Is it an even number\Is it an even number\bin\Debug\Is it an even number.exe.config
+D:\Work\For loops\Is it an even number\Is it an even number\bin\Debug\Is it an even number.exe
+D:\Work\For loops\Is it an even number\Is it an even number\bin\Debug\Is it an even number.pdb
+D:\Work\For loops\Is it an even number\Is it an even number\obj\Debug\Is it an even number.csproj.AssemblyReference.cache
+D:\Work\For loops\Is it an even number\Is it an even number\obj\Debug\Is it an even number.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Is it an even number\Is it an even number\obj\Debug\Is it an even number.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Is it an even number\Is it an even number\obj\Debug\Is it an even number.exe
+D:\Work\For loops\Is it an even number\Is it an even number\obj\Debug\Is it an even number.pdb

@@ -1,0 +1,8 @@
+D:\Work\While loops\numbers disassembling\biggest digit ETGAR\biggest digit ETGAR\bin\Debug\biggest digit ETGAR.exe.config
+D:\Work\While loops\numbers disassembling\biggest digit ETGAR\biggest digit ETGAR\bin\Debug\biggest digit ETGAR.exe
+D:\Work\While loops\numbers disassembling\biggest digit ETGAR\biggest digit ETGAR\bin\Debug\biggest digit ETGAR.pdb
+D:\Work\While loops\numbers disassembling\biggest digit ETGAR\biggest digit ETGAR\obj\Debug\biggest digit ETGAR.csproj.AssemblyReference.cache
+D:\Work\While loops\numbers disassembling\biggest digit ETGAR\biggest digit ETGAR\obj\Debug\biggest digit ETGAR.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\numbers disassembling\biggest digit ETGAR\biggest digit ETGAR\obj\Debug\biggest digit ETGAR.csproj.CoreCompileInputs.cache
+D:\Work\While loops\numbers disassembling\biggest digit ETGAR\biggest digit ETGAR\obj\Debug\biggest digit ETGAR.exe
+D:\Work\While loops\numbers disassembling\biggest digit ETGAR\biggest digit ETGAR\obj\Debug\biggest digit ETGAR.pdb

@@ -1,0 +1,8 @@
+D:\C#\Arrays\ArraysEx2\ArraysEx2\bin\Debug\ArraysEx2.exe.config
+D:\C#\Arrays\ArraysEx2\ArraysEx2\bin\Debug\ArraysEx2.exe
+D:\C#\Arrays\ArraysEx2\ArraysEx2\bin\Debug\ArraysEx2.pdb
+D:\C#\Arrays\ArraysEx2\ArraysEx2\obj\Debug\ArraysEx2.csproj.AssemblyReference.cache
+D:\C#\Arrays\ArraysEx2\ArraysEx2\obj\Debug\ArraysEx2.csproj.SuggestedBindingRedirects.cache
+D:\C#\Arrays\ArraysEx2\ArraysEx2\obj\Debug\ArraysEx2.csproj.CoreCompileInputs.cache
+D:\C#\Arrays\ArraysEx2\ArraysEx2\obj\Debug\ArraysEx2.exe
+D:\C#\Arrays\ArraysEx2\ArraysEx2\obj\Debug\ArraysEx2.pdb

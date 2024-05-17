@@ -1,0 +1,6 @@
+F:\C#\Recursion\Array Sum\Array Sum\bin\Debug\Array Sum.exe.config
+F:\C#\Recursion\Array Sum\Array Sum\bin\Debug\Array Sum.exe
+F:\C#\Recursion\Array Sum\Array Sum\bin\Debug\Array Sum.pdb
+F:\C#\Recursion\Array Sum\Array Sum\obj\Debug\Array Sum.csprojAssemblyReference.cache
+F:\C#\Recursion\Array Sum\Array Sum\obj\Debug\Array Sum.exe
+F:\C#\Recursion\Array Sum\Array Sum\obj\Debug\Array Sum.pdb

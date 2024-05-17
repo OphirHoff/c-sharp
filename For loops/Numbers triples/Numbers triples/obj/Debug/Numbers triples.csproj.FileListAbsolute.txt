@@ -1,0 +1,8 @@
+D:\Work\For loops\Numbers triples\Numbers triples\bin\Debug\Numbers triples.exe.config
+D:\Work\For loops\Numbers triples\Numbers triples\bin\Debug\Numbers triples.exe
+D:\Work\For loops\Numbers triples\Numbers triples\bin\Debug\Numbers triples.pdb
+D:\Work\For loops\Numbers triples\Numbers triples\obj\Debug\Numbers triples.csproj.AssemblyReference.cache
+D:\Work\For loops\Numbers triples\Numbers triples\obj\Debug\Numbers triples.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Numbers triples\Numbers triples\obj\Debug\Numbers triples.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Numbers triples\Numbers triples\obj\Debug\Numbers triples.exe
+D:\Work\For loops\Numbers triples\Numbers triples\obj\Debug\Numbers triples.pdb

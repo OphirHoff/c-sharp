@@ -1,0 +1,8 @@
+D:\C#\Arrays\ArrayEx3\ArrayEx3\bin\Debug\ArrayEx3.exe.config
+D:\C#\Arrays\ArrayEx3\ArrayEx3\bin\Debug\ArrayEx3.exe
+D:\C#\Arrays\ArrayEx3\ArrayEx3\bin\Debug\ArrayEx3.pdb
+D:\C#\Arrays\ArrayEx3\ArrayEx3\obj\Debug\ArrayEx3.csproj.AssemblyReference.cache
+D:\C#\Arrays\ArrayEx3\ArrayEx3\obj\Debug\ArrayEx3.csproj.SuggestedBindingRedirects.cache
+D:\C#\Arrays\ArrayEx3\ArrayEx3\obj\Debug\ArrayEx3.csproj.CoreCompileInputs.cache
+D:\C#\Arrays\ArrayEx3\ArrayEx3\obj\Debug\ArrayEx3.exe
+D:\C#\Arrays\ArrayEx3\ArrayEx3\obj\Debug\ArrayEx3.pdb

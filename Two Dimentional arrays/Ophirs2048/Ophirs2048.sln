@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ophirs2048", "Ophirs2048\Ophirs2048.csproj", "{ADCCA596-4E90-4D96-B828-F1D9E8A33545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCCA596-4E90-4D96-B828-F1D9E8A33545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCCA596-4E90-4D96-B828-F1D9E8A33545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCCA596-4E90-4D96-B828-F1D9E8A33545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCCA596-4E90-4D96-B828-F1D9E8A33545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7E7E7B-2797-4A6E-86E9-E6D76BB82936}
+	EndGlobalSection
+EndGlobal

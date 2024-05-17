@@ -1,0 +1,8 @@
+D:\Work\While loops\while zakif\three-digit numbers couples\three-digit numbers couples\bin\Debug\three-digit numbers couples.exe.config
+D:\Work\While loops\while zakif\three-digit numbers couples\three-digit numbers couples\bin\Debug\three-digit numbers couples.exe
+D:\Work\While loops\while zakif\three-digit numbers couples\three-digit numbers couples\bin\Debug\three-digit numbers couples.pdb
+D:\Work\While loops\while zakif\three-digit numbers couples\three-digit numbers couples\obj\Debug\three-digit numbers couples.csproj.AssemblyReference.cache
+D:\Work\While loops\while zakif\three-digit numbers couples\three-digit numbers couples\obj\Debug\three-digit numbers couples.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\while zakif\three-digit numbers couples\three-digit numbers couples\obj\Debug\three-digit numbers couples.csproj.CoreCompileInputs.cache
+D:\Work\While loops\while zakif\three-digit numbers couples\three-digit numbers couples\obj\Debug\three-digit numbers couples.exe
+D:\Work\While loops\while zakif\three-digit numbers couples\three-digit numbers couples\obj\Debug\three-digit numbers couples.pdb

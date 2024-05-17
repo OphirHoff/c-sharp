@@ -1,0 +1,8 @@
+D:\Work\For loops\Perfect and prime\first 5 perfect\first 5 perfect\bin\Debug\first 5 perfect.exe.config
+D:\Work\For loops\Perfect and prime\first 5 perfect\first 5 perfect\bin\Debug\first 5 perfect.exe
+D:\Work\For loops\Perfect and prime\first 5 perfect\first 5 perfect\bin\Debug\first 5 perfect.pdb
+D:\Work\For loops\Perfect and prime\first 5 perfect\first 5 perfect\obj\Debug\first 5 perfect.csproj.AssemblyReference.cache
+D:\Work\For loops\Perfect and prime\first 5 perfect\first 5 perfect\obj\Debug\first 5 perfect.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Perfect and prime\first 5 perfect\first 5 perfect\obj\Debug\first 5 perfect.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Perfect and prime\first 5 perfect\first 5 perfect\obj\Debug\first 5 perfect.exe
+D:\Work\For loops\Perfect and prime\first 5 perfect\first 5 perfect\obj\Debug\first 5 perfect.pdb

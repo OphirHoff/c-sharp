@@ -1,0 +1,8 @@
+D:\Work\For loops\Mishpachot olim\Mishpachot olim\bin\Debug\Mishpachot olim.exe.config
+D:\Work\For loops\Mishpachot olim\Mishpachot olim\bin\Debug\Mishpachot olim.exe
+D:\Work\For loops\Mishpachot olim\Mishpachot olim\bin\Debug\Mishpachot olim.pdb
+D:\Work\For loops\Mishpachot olim\Mishpachot olim\obj\Debug\Mishpachot olim.csproj.AssemblyReference.cache
+D:\Work\For loops\Mishpachot olim\Mishpachot olim\obj\Debug\Mishpachot olim.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\Mishpachot olim\Mishpachot olim\obj\Debug\Mishpachot olim.csproj.CoreCompileInputs.cache
+D:\Work\For loops\Mishpachot olim\Mishpachot olim\obj\Debug\Mishpachot olim.exe
+D:\Work\For loops\Mishpachot olim\Mishpachot olim\obj\Debug\Mishpachot olim.pdb

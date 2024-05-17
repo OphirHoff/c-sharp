@@ -1,0 +1,8 @@
+D:\C#\model of computation\Is decimal\Is decimal\bin\Debug\Is decimal.exe.config
+D:\C#\model of computation\Is decimal\Is decimal\bin\Debug\Is decimal.exe
+D:\C#\model of computation\Is decimal\Is decimal\bin\Debug\Is decimal.pdb
+D:\C#\model of computation\Is decimal\Is decimal\obj\Debug\Is decimal.csproj.AssemblyReference.cache
+D:\C#\model of computation\Is decimal\Is decimal\obj\Debug\Is decimal.csproj.SuggestedBindingRedirects.cache
+D:\C#\model of computation\Is decimal\Is decimal\obj\Debug\Is decimal.csproj.CoreCompileInputs.cache
+D:\C#\model of computation\Is decimal\Is decimal\obj\Debug\Is decimal.exe
+D:\C#\model of computation\Is decimal\Is decimal\obj\Debug\Is decimal.pdb

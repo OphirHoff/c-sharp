@@ -1,0 +1,14 @@
+E:\C#\Arrays\StaclkA\StaclkA\obj\Debug\StaclkA.csprojAssemblyReference.cache
+E:\C#\Arrays\StaclkA\StaclkA\bin\Debug\StaclkA.exe.config
+E:\C#\Arrays\StaclkA\StaclkA\bin\Debug\StaclkA.exe
+E:\C#\Arrays\StaclkA\StaclkA\bin\Debug\StaclkA.pdb
+E:\C#\Arrays\StaclkA\StaclkA\obj\Debug\StaclkA.exe
+E:\C#\Arrays\StaclkA\StaclkA\obj\Debug\StaclkA.pdb
+D:\C#\Arrays\StaclkA\StaclkA\bin\Debug\StaclkA.exe.config
+D:\C#\Arrays\StaclkA\StaclkA\bin\Debug\StaclkA.exe
+D:\C#\Arrays\StaclkA\StaclkA\bin\Debug\StaclkA.pdb
+D:\C#\Arrays\StaclkA\StaclkA\obj\Debug\StaclkA.csproj.AssemblyReference.cache
+D:\C#\Arrays\StaclkA\StaclkA\obj\Debug\StaclkA.csproj.SuggestedBindingRedirects.cache
+D:\C#\Arrays\StaclkA\StaclkA\obj\Debug\StaclkA.csproj.CoreCompileInputs.cache
+D:\C#\Arrays\StaclkA\StaclkA\obj\Debug\StaclkA.exe
+D:\C#\Arrays\StaclkA\StaclkA\obj\Debug\StaclkA.pdb

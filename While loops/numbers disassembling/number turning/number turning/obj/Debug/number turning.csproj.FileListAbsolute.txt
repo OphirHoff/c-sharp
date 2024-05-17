@@ -1,0 +1,8 @@
+D:\Work\While loops\numbers disassembling\number turning\number turning\bin\Debug\number turning.exe.config
+D:\Work\While loops\numbers disassembling\number turning\number turning\bin\Debug\number turning.exe
+D:\Work\While loops\numbers disassembling\number turning\number turning\bin\Debug\number turning.pdb
+D:\Work\While loops\numbers disassembling\number turning\number turning\obj\Debug\number turning.csproj.AssemblyReference.cache
+D:\Work\While loops\numbers disassembling\number turning\number turning\obj\Debug\number turning.csproj.SuggestedBindingRedirects.cache
+D:\Work\While loops\numbers disassembling\number turning\number turning\obj\Debug\number turning.csproj.CoreCompileInputs.cache
+D:\Work\While loops\numbers disassembling\number turning\number turning\obj\Debug\number turning.exe
+D:\Work\While loops\numbers disassembling\number turning\number turning\obj\Debug\number turning.pdb

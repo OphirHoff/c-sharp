@@ -1,0 +1,10 @@
+E:\C#\TestDll\bin\Debug\TestDll.exe.config
+E:\C#\TestDll\bin\Debug\TestDll.exe
+E:\C#\TestDll\bin\Debug\TestDll.pdb
+E:\C#\TestDll\bin\Debug\MyFirstDll.dll
+E:\C#\TestDll\bin\Debug\MyFirstDll.pdb
+E:\C#\TestDll\obj\Debug\TestDll.csprojAssemblyReference.cache
+E:\C#\TestDll\obj\Debug\TestDll.csproj.CoreCompileInputs.cache
+E:\C#\TestDll\obj\Debug\TestDll.csproj.CopyComplete
+E:\C#\TestDll\obj\Debug\TestDll.exe
+E:\C#\TestDll\obj\Debug\TestDll.pdb

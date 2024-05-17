@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\all numbers not included\all numbers not included\bin\Debug\all numbers not included.exe.config
+D:\Work\Methods\דף עבודה\all numbers not included\all numbers not included\bin\Debug\all numbers not included.exe
+D:\Work\Methods\דף עבודה\all numbers not included\all numbers not included\bin\Debug\all numbers not included.pdb
+D:\Work\Methods\דף עבודה\all numbers not included\all numbers not included\obj\Debug\all numbers not included.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\all numbers not included\all numbers not included\obj\Debug\all numbers not included.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\all numbers not included\all numbers not included\obj\Debug\all numbers not included.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\all numbers not included\all numbers not included\obj\Debug\all numbers not included.exe
+D:\Work\Methods\דף עבודה\all numbers not included\all numbers not included\obj\Debug\all numbers not included.pdb

@@ -1,0 +1,16 @@
+D:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\bin\Debug\ETGAR 7.exe.config
+D:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\bin\Debug\ETGAR 7.exe
+D:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\bin\Debug\ETGAR 7.pdb
+D:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.csproj.AssemblyReference.cache
+D:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.csproj.SuggestedBindingRedirects.cache
+D:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.csproj.CoreCompileInputs.cache
+D:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.exe
+D:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.pdb
+E:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\bin\Debug\ETGAR 7.exe.config
+E:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\bin\Debug\ETGAR 7.exe
+E:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\bin\Debug\ETGAR 7.pdb
+E:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.csproj.AssemblyReference.cache
+E:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.csproj.SuggestedBindingRedirects.cache
+E:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.csproj.CoreCompileInputs.cache
+E:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.exe
+E:\Work\For loops\FOR nesting\ETGAR 7\ETGAR 7\obj\Debug\ETGAR 7.pdb

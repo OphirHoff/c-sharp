@@ -1,0 +1,8 @@
+D:\Work\Methods\דף עבודה\Sum of digits\Sum of digits\bin\Debug\Sum of digits.exe.config
+D:\Work\Methods\דף עבודה\Sum of digits\Sum of digits\bin\Debug\Sum of digits.exe
+D:\Work\Methods\דף עבודה\Sum of digits\Sum of digits\bin\Debug\Sum of digits.pdb
+D:\Work\Methods\דף עבודה\Sum of digits\Sum of digits\obj\Debug\Sum of digits.csproj.AssemblyReference.cache
+D:\Work\Methods\דף עבודה\Sum of digits\Sum of digits\obj\Debug\Sum of digits.csproj.SuggestedBindingRedirects.cache
+D:\Work\Methods\דף עבודה\Sum of digits\Sum of digits\obj\Debug\Sum of digits.csproj.CoreCompileInputs.cache
+D:\Work\Methods\דף עבודה\Sum of digits\Sum of digits\obj\Debug\Sum of digits.exe
+D:\Work\Methods\דף עבודה\Sum of digits\Sum of digits\obj\Debug\Sum of digits.pdb

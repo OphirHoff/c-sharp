@@ -1,0 +1,8 @@
+D:\C#\CardsNodes\CardsNodes\bin\Debug\CardsNodes.exe.config
+D:\C#\CardsNodes\CardsNodes\bin\Debug\CardsNodes.exe
+D:\C#\CardsNodes\CardsNodes\bin\Debug\CardsNodes.pdb
+D:\C#\CardsNodes\CardsNodes\obj\Debug\CardsNodes.csproj.AssemblyReference.cache
+D:\C#\CardsNodes\CardsNodes\obj\Debug\CardsNodes.csproj.SuggestedBindingRedirects.cache
+D:\C#\CardsNodes\CardsNodes\obj\Debug\CardsNodes.csproj.CoreCompileInputs.cache
+D:\C#\CardsNodes\CardsNodes\obj\Debug\CardsNodes.exe
+D:\C#\CardsNodes\CardsNodes\obj\Debug\CardsNodes.pdb

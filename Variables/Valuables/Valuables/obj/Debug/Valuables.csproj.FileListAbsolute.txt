@@ -1,0 +1,8 @@
+D:\Work\Valuables\Valuables\bin\Debug\Valuables.exe.config
+D:\Work\Valuables\Valuables\bin\Debug\Valuables.exe
+D:\Work\Valuables\Valuables\bin\Debug\Valuables.pdb
+D:\Work\Valuables\Valuables\obj\Debug\Valuables.csproj.AssemblyReference.cache
+D:\Work\Valuables\Valuables\obj\Debug\Valuables.csproj.SuggestedBindingRedirects.cache
+D:\Work\Valuables\Valuables\obj\Debug\Valuables.csproj.CoreCompileInputs.cache
+D:\Work\Valuables\Valuables\obj\Debug\Valuables.exe
+D:\Work\Valuables\Valuables\obj\Debug\Valuables.pdb

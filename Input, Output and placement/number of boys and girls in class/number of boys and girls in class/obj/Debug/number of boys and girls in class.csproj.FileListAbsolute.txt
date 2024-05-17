@@ -1,0 +1,8 @@
+D:\Work\number of boys and girls in class\number of boys and girls in class\bin\Debug\number of boys and girls in class.exe.config
+D:\Work\number of boys and girls in class\number of boys and girls in class\bin\Debug\number of boys and girls in class.exe
+D:\Work\number of boys and girls in class\number of boys and girls in class\bin\Debug\number of boys and girls in class.pdb
+D:\Work\number of boys and girls in class\number of boys and girls in class\obj\Debug\number of boys and girls in class.csproj.AssemblyReference.cache
+D:\Work\number of boys and girls in class\number of boys and girls in class\obj\Debug\number of boys and girls in class.csproj.SuggestedBindingRedirects.cache
+D:\Work\number of boys and girls in class\number of boys and girls in class\obj\Debug\number of boys and girls in class.csproj.CoreCompileInputs.cache
+D:\Work\number of boys and girls in class\number of boys and girls in class\obj\Debug\number of boys and girls in class.exe
+D:\Work\number of boys and girls in class\number of boys and girls in class\obj\Debug\number of boys and girls in class.pdb

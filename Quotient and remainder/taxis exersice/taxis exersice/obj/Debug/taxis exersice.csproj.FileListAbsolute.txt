@@ -1,0 +1,8 @@
+D:\Work\Quotient and remainder\taxis exersice\taxis exersice\bin\Debug\taxis exersice.exe.config
+D:\Work\Quotient and remainder\taxis exersice\taxis exersice\bin\Debug\taxis exersice.exe
+D:\Work\Quotient and remainder\taxis exersice\taxis exersice\bin\Debug\taxis exersice.pdb
+D:\Work\Quotient and remainder\taxis exersice\taxis exersice\obj\Debug\taxis exersice.csproj.AssemblyReference.cache
+D:\Work\Quotient and remainder\taxis exersice\taxis exersice\obj\Debug\taxis exersice.csproj.SuggestedBindingRedirects.cache
+D:\Work\Quotient and remainder\taxis exersice\taxis exersice\obj\Debug\taxis exersice.csproj.CoreCompileInputs.cache
+D:\Work\Quotient and remainder\taxis exersice\taxis exersice\obj\Debug\taxis exersice.exe
+D:\Work\Quotient and remainder\taxis exersice\taxis exersice\obj\Debug\taxis exersice.pdb

@@ -1,0 +1,8 @@
+D:\C#\ציור על מסך\Rectangle painter\Rectangle painter\bin\Debug\Rectangle painter.exe.config
+D:\C#\ציור על מסך\Rectangle painter\Rectangle painter\bin\Debug\Rectangle painter.exe
+D:\C#\ציור על מסך\Rectangle painter\Rectangle painter\bin\Debug\Rectangle painter.pdb
+D:\C#\ציור על מסך\Rectangle painter\Rectangle painter\obj\Debug\Rectangle painter.csproj.AssemblyReference.cache
+D:\C#\ציור על מסך\Rectangle painter\Rectangle painter\obj\Debug\Rectangle painter.csproj.SuggestedBindingRedirects.cache
+D:\C#\ציור על מסך\Rectangle painter\Rectangle painter\obj\Debug\Rectangle painter.csproj.CoreCompileInputs.cache
+D:\C#\ציור על מסך\Rectangle painter\Rectangle painter\obj\Debug\Rectangle painter.exe
+D:\C#\ציור על מסך\Rectangle painter\Rectangle painter\obj\Debug\Rectangle painter.pdb
